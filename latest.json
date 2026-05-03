@@ -1,46 +1,52 @@
 {
-  "updatedAt": 1777820466018,
+  "updatedAt": 1777820638687,
   "data": [
     {
       "symbol": "BTC",
       "name": "비트코인",
-      "upbitPrice": 116711000,
-      "bithumbPrice": 116719000
+      "upbitPrice": 116710000,
+      "bithumbPrice": 116687000
     },
     {
       "symbol": "XAUT",
       "name": "테더골드",
-      "upbitPrice": 6836000,
+      "upbitPrice": 6837000,
       "bithumbPrice": null
     },
     {
       "symbol": "ETH",
       "name": "이더리움",
-      "upbitPrice": 3450000,
+      "upbitPrice": 3449000,
       "bithumbPrice": 3450000
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "upbitPrice": null,
+      "bithumbPrice": 919000
     },
     {
       "symbol": "BCH",
       "name": "비트코인캐시",
       "upbitPrice": 662000,
-      "bithumbPrice": null
+      "bithumbPrice": 662500
     },
     {
       "symbol": "TAO",
       "name": "비트텐서",
-      "upbitPrice": 426400,
+      "upbitPrice": 427400,
       "bithumbPrice": null
     },
     {
       "symbol": "GNO",
       "name": "GNO",
       "upbitPrice": null,
-      "bithumbPrice": 201900
+      "bithumbPrice": 202100
     },
     {
       "symbol": "AAVE",
       "name": "에이브",
-      "upbitPrice": 137400,
+      "upbitPrice": 137500,
       "bithumbPrice": 137400
     },
     {
@@ -62,27 +68,33 @@
       "bithumbPrice": 23380
     },
     {
+      "symbol": "DEXE",
+      "name": "DEXE",
+      "upbitPrice": null,
+      "bithumbPrice": 15290
+    },
+    {
       "symbol": "LINK",
       "name": "체인링크",
-      "upbitPrice": 13570,
-      "bithumbPrice": 13570
+      "upbitPrice": 13590,
+      "bithumbPrice": 13590
     },
     {
       "symbol": "AVAX",
       "name": "아발란체",
-      "upbitPrice": 13490,
-      "bithumbPrice": 13500
+      "upbitPrice": 13480,
+      "bithumbPrice": 13510
     },
     {
       "symbol": "ETC",
       "name": "이더리움클래식",
       "upbitPrice": 12560,
-      "bithumbPrice": 12540
+      "bithumbPrice": 12560
     },
     {
       "symbol": "ENS",
       "name": "이더리움네임서비스",
-      "upbitPrice": 9080,
+      "upbitPrice": 9105,
       "bithumbPrice": null
     },
     {
@@ -100,26 +112,32 @@
     {
       "symbol": "INJ",
       "name": "인젝티브",
-      "upbitPrice": 5610,
-      "bithumbPrice": null
+      "upbitPrice": 5600,
+      "bithumbPrice": 5610
+    },
+    {
+      "symbol": "METIS",
+      "name": "METIS",
+      "upbitPrice": null,
+      "bithumbPrice": 5175
     },
     {
       "symbol": "UNI",
       "name": "유니스왑",
-      "upbitPrice": 4810,
+      "upbitPrice": 4814,
       "bithumbPrice": null
     },
     {
       "symbol": "NEO",
       "name": "네오",
-      "upbitPrice": 4120,
+      "upbitPrice": 4125,
       "bithumbPrice": null
     },
     {
       "symbol": "XVS",
       "name": "XVS",
       "upbitPrice": null,
-      "bithumbPrice": 3846
+      "bithumbPrice": 3848
     },
     {
       "symbol": "ICP",
@@ -131,7 +149,7 @@
       "symbol": "TRUMP",
       "name": "오피셜트럼프",
       "upbitPrice": 3462,
-      "bithumbPrice": 3467
+      "bithumbPrice": 3464
     },
     {
       "symbol": "LPT",
@@ -142,8 +160,14 @@
     {
       "symbol": "ORCA",
       "name": "오르카",
-      "upbitPrice": 3080,
-      "bithumbPrice": 3080
+      "upbitPrice": 3077,
+      "bithumbPrice": 3083
+    },
+    {
+      "symbol": "MORPHO",
+      "name": "MORPHO",
+      "upbitPrice": null,
+      "bithumbPrice": 2900
     },
     {
       "symbol": "ATOM",
@@ -152,16 +176,22 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "RPL",
+      "name": "RPL",
+      "upbitPrice": null,
+      "bithumbPrice": 2790
+    },
+    {
       "symbol": "RENDER",
       "name": "렌더토큰",
-      "upbitPrice": 2691,
-      "bithumbPrice": null
+      "upbitPrice": 2694,
+      "bithumbPrice": 2688
     },
     {
       "symbol": "GAS",
       "name": "가스",
-      "upbitPrice": 2369,
-      "bithumbPrice": null
+      "upbitPrice": 2373,
+      "bithumbPrice": 2373
     },
     {
       "symbol": "FLUID",
@@ -172,8 +202,8 @@
     {
       "symbol": "PENDLE",
       "name": "펜들",
-      "upbitPrice": 2328,
-      "bithumbPrice": 2327
+      "upbitPrice": 2332,
+      "bithumbPrice": 2322
     },
     {
       "symbol": "VANA",
@@ -188,33 +218,39 @@
       "bithumbPrice": 2242
     },
     {
+      "symbol": "EUL",
+      "name": "EUL",
+      "upbitPrice": null,
+      "bithumbPrice": 2126
+    },
+    {
       "symbol": "XRP",
       "name": "엑스알피(리플)",
       "upbitPrice": 2070,
-      "bithumbPrice": 2069
+      "bithumbPrice": 2071
     },
     {
       "symbol": "ZRO",
       "name": "레이어제로",
-      "upbitPrice": 2033,
+      "upbitPrice": 2030,
       "bithumbPrice": 2031
     },
     {
       "symbol": "AXS",
       "name": "엑시인피니티",
-      "upbitPrice": 1960,
-      "bithumbPrice": null
+      "upbitPrice": 1965,
+      "bithumbPrice": 1961
     },
     {
       "symbol": "NEAR",
       "name": "니어프로토콜",
-      "upbitPrice": 1889,
+      "upbitPrice": 1887,
       "bithumbPrice": 1885
     },
     {
       "symbol": "DOT",
       "name": "폴카닷",
-      "upbitPrice": 1794,
+      "upbitPrice": 1795,
       "bithumbPrice": 1791
     },
     {
@@ -232,13 +268,7 @@
     {
       "symbol": "USDT",
       "name": "테더",
-      "upbitPrice": 1482,
-      "bithumbPrice": 1482
-    },
-    {
-      "symbol": "USDC",
-      "name": "유에스디코인",
-      "upbitPrice": 1481,
+      "upbitPrice": 1483,
       "bithumbPrice": 1482
     },
     {
@@ -248,22 +278,28 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "USDC",
+      "name": "유에스디코인",
+      "upbitPrice": 1480,
+      "bithumbPrice": 1482
+    },
+    {
       "symbol": "APT",
       "name": "앱토스",
-      "upbitPrice": 1469,
+      "upbitPrice": 1472,
       "bithumbPrice": null
     },
     {
       "symbol": "ENSO",
       "name": "엔소",
-      "upbitPrice": 1422,
-      "bithumbPrice": 1423
+      "upbitPrice": 1428,
+      "bithumbPrice": 1422
     },
     {
       "symbol": "SUI",
       "name": "수이",
-      "upbitPrice": 1372,
-      "bithumbPrice": 1375
+      "upbitPrice": 1371,
+      "bithumbPrice": 1372
     },
     {
       "symbol": "FIL",
@@ -281,25 +317,25 @@
       "symbol": "QTUM",
       "name": "퀀텀",
       "upbitPrice": 1294,
-      "bithumbPrice": null
+      "bithumbPrice": 1298
     },
     {
       "symbol": "RAY",
       "name": "레이디움",
-      "upbitPrice": 1212,
-      "bithumbPrice": null
+      "upbitPrice": 1213,
+      "bithumbPrice": 1209
     },
     {
       "symbol": "VIRTUAL",
       "name": "버추얼프로토콜",
-      "upbitPrice": 1118,
+      "upbitPrice": 1119,
       "bithumbPrice": 1119
     },
     {
       "symbol": "PIEVERSE",
       "name": "파이버스",
-      "upbitPrice": 1052,
-      "bithumbPrice": 1044
+      "upbitPrice": 1050,
+      "bithumbPrice": 1046
     },
     {
       "symbol": "ASTER",
@@ -310,8 +346,8 @@
     {
       "symbol": "AKT",
       "name": "아카시네트워크",
-      "upbitPrice": 971,
-      "bithumbPrice": 970
+      "upbitPrice": 972,
+      "bithumbPrice": 971
     },
     {
       "symbol": "MNT",
@@ -322,20 +358,20 @@
     {
       "symbol": "TOKAMAK",
       "name": "토카막네트워크",
-      "upbitPrice": 826,
-      "bithumbPrice": null
+      "upbitPrice": 823,
+      "bithumbPrice": 821
     },
     {
       "symbol": "AQT",
       "name": "알파쿼크",
       "upbitPrice": 816,
-      "bithumbPrice": null
+      "bithumbPrice": 814
     },
     {
       "symbol": "CYBER",
       "name": "사이버",
-      "upbitPrice": 801,
-      "bithumbPrice": 796
+      "upbitPrice": 802,
+      "bithumbPrice": 800
     },
     {
       "symbol": "0G",
@@ -344,16 +380,16 @@
       "bithumbPrice": 792
     },
     {
+      "symbol": "RLC",
+      "name": "RLC",
+      "upbitPrice": null,
+      "bithumbPrice": 768
+    },
+    {
       "symbol": "CYS",
       "name": "CYS",
       "upbitPrice": null,
       "bithumbPrice": 762
-    },
-    {
-      "symbol": "RLC",
-      "name": "RLC",
-      "upbitPrice": null,
-      "bithumbPrice": 748
     },
     {
       "symbol": "MASK",
@@ -364,14 +400,20 @@
     {
       "symbol": "IP",
       "name": "스토리",
-      "upbitPrice": 733,
-      "bithumbPrice": null
+      "upbitPrice": 732,
+      "bithumbPrice": 732
     },
     {
       "symbol": "KAITO",
       "name": "카이토",
-      "upbitPrice": 704,
-      "bithumbPrice": null
+      "upbitPrice": 701,
+      "bithumbPrice": 701
+    },
+    {
+      "symbol": "UMA",
+      "name": "UMA",
+      "upbitPrice": null,
+      "bithumbPrice": 686
     },
     {
       "symbol": "AERO",
@@ -382,7 +424,7 @@
     {
       "symbol": "ETHFI",
       "name": "이더파이",
-      "upbitPrice": 613,
+      "upbitPrice": 616,
       "bithumbPrice": null
     },
     {
@@ -395,18 +437,18 @@
       "symbol": "JTO",
       "name": "지토",
       "upbitPrice": 584,
-      "bithumbPrice": 581
-    },
-    {
-      "symbol": "API3",
-      "name": "에이피아이쓰리",
-      "upbitPrice": 560,
-      "bithumbPrice": 559
+      "bithumbPrice": 584
     },
     {
       "symbol": "TRAC",
       "name": "TRAC",
       "upbitPrice": null,
+      "bithumbPrice": 570
+    },
+    {
+      "symbol": "API3",
+      "name": "에이피아이쓰리",
+      "upbitPrice": 559,
       "bithumbPrice": 560
     },
     {
@@ -431,13 +473,19 @@
       "symbol": "TRX",
       "name": "트론",
       "upbitPrice": 502,
-      "bithumbPrice": 501
+      "bithumbPrice": 500
+    },
+    {
+      "symbol": "SNX",
+      "name": "SNX",
+      "upbitPrice": null,
+      "bithumbPrice": 468
     },
     {
       "symbol": "SPURS",
       "name": "SPURS",
       "upbitPrice": null,
-      "bithumbPrice": 460
+      "bithumbPrice": 458
     },
     {
       "symbol": "MTL",
@@ -461,19 +509,19 @@
       "symbol": "PYR",
       "name": "PYR",
       "upbitPrice": null,
-      "bithumbPrice": 411
+      "bithumbPrice": 409
     },
     {
       "symbol": "BARD",
       "name": "롬바드",
-      "upbitPrice": 406,
-      "bithumbPrice": null
+      "upbitPrice": 407,
+      "bithumbPrice": 405
     },
     {
       "symbol": "CBK",
       "name": "코박토큰",
       "upbitPrice": 382,
-      "bithumbPrice": null
+      "bithumbPrice": 377
     },
     {
       "symbol": "AGLD",
@@ -484,8 +532,8 @@
     {
       "symbol": "ADA",
       "name": "에이다",
-      "upbitPrice": 371,
-      "bithumbPrice": null
+      "upbitPrice": 372,
+      "bithumbPrice": 371
     },
     {
       "symbol": "SYRUP",
@@ -497,7 +545,7 @@
       "symbol": "PRL",
       "name": "펄",
       "upbitPrice": 363,
-      "bithumbPrice": 365
+      "bithumbPrice": 363
     },
     {
       "symbol": "PROVE",
@@ -509,7 +557,7 @@
       "symbol": "WLD",
       "name": "월드코인",
       "upbitPrice": 354,
-      "bithumbPrice": 355
+      "bithumbPrice": 354
     },
     {
       "symbol": "STX",
@@ -521,19 +569,19 @@
       "symbol": "OPEN",
       "name": "오픈렛저",
       "upbitPrice": 330,
-      "bithumbPrice": 331
+      "bithumbPrice": 330
     },
     {
       "symbol": "THETA",
       "name": "쎄타토큰",
       "upbitPrice": 316,
-      "bithumbPrice": null
+      "bithumbPrice": 316
     },
     {
       "symbol": "CFG",
       "name": "센트리퓨즈",
       "upbitPrice": 313,
-      "bithumbPrice": null
+      "bithumbPrice": 311
     },
     {
       "symbol": "FET",
@@ -545,7 +593,7 @@
       "symbol": "HIGH",
       "name": "HIGH",
       "upbitPrice": null,
-      "bithumbPrice": 305
+      "bithumbPrice": 303
     },
     {
       "symbol": "H",
@@ -562,8 +610,8 @@
     {
       "symbol": "ZBT",
       "name": "제로베이스",
-      "upbitPrice": 270,
-      "bithumbPrice": 269
+      "upbitPrice": 269,
+      "bithumbPrice": 268
     },
     {
       "symbol": "SOMI",
@@ -581,19 +629,25 @@
       "symbol": "ARK",
       "name": "아크",
       "upbitPrice": 261,
-      "bithumbPrice": 262
+      "bithumbPrice": 261
+    },
+    {
+      "symbol": "APE",
+      "name": "APE",
+      "upbitPrice": null,
+      "bithumbPrice": 255
     },
     {
       "symbol": "KNC",
       "name": "카이버네트워크",
-      "upbitPrice": 254,
+      "upbitPrice": 253,
       "bithumbPrice": 254
     },
     {
       "symbol": "SOON",
       "name": "쑨",
       "upbitPrice": 253,
-      "bithumbPrice": 253
+      "bithumbPrice": 252
     },
     {
       "symbol": "IMX",
@@ -610,14 +664,14 @@
     {
       "symbol": "XLM",
       "name": "스텔라루멘",
-      "upbitPrice": 236,
-      "bithumbPrice": null
+      "upbitPrice": 237,
+      "bithumbPrice": 236
     },
     {
-      "symbol": "KITE",
-      "name": "카이트",
-      "upbitPrice": 222,
-      "bithumbPrice": null
+      "symbol": "MET",
+      "name": "MET",
+      "upbitPrice": null,
+      "bithumbPrice": 237
     },
     {
       "symbol": "CC",
@@ -626,10 +680,10 @@
       "bithumbPrice": null
     },
     {
-      "symbol": "SAFE",
-      "name": "세이프",
-      "upbitPrice": 215,
-      "bithumbPrice": 214
+      "symbol": "KITE",
+      "name": "카이트",
+      "upbitPrice": 221,
+      "bithumbPrice": null
     },
     {
       "symbol": "CTC",
@@ -644,6 +698,12 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "SAFE",
+      "name": "세이프",
+      "upbitPrice": 214,
+      "bithumbPrice": 214
+    },
+    {
       "symbol": "AVNT",
       "name": "아반티스",
       "upbitPrice": 213,
@@ -652,8 +712,8 @@
     {
       "symbol": "BIRB",
       "name": "문버드",
-      "upbitPrice": 208,
-      "bithumbPrice": null
+      "upbitPrice": 207,
+      "bithumbPrice": 207
     },
     {
       "symbol": "GLM",
@@ -664,14 +724,20 @@
     {
       "symbol": "LA",
       "name": "라그랑주",
-      "upbitPrice": 205,
-      "bithumbPrice": null
+      "upbitPrice": 204,
+      "bithumbPrice": 205
+    },
+    {
+      "symbol": "SD",
+      "name": "SD",
+      "upbitPrice": null,
+      "bithumbPrice": 203
     },
     {
       "symbol": "ERA",
       "name": "칼데라",
       "upbitPrice": 202,
-      "bithumbPrice": null
+      "bithumbPrice": 201
     },
     {
       "symbol": "RED",
@@ -683,13 +749,7 @@
       "symbol": "MMT",
       "name": "모멘텀",
       "upbitPrice": 200,
-      "bithumbPrice": null
-    },
-    {
-      "symbol": "SD",
-      "name": "SD",
-      "upbitPrice": null,
-      "bithumbPrice": 200
+      "bithumbPrice": 199
     },
     {
       "symbol": "LSK",
@@ -700,19 +760,19 @@
     {
       "symbol": "MEGA",
       "name": "메가이더",
-      "upbitPrice": 186,
+      "upbitPrice": 187,
       "bithumbPrice": 186
-    },
-    {
-      "symbol": "ACE",
-      "name": "ACE",
-      "upbitPrice": null,
-      "bithumbPrice": 185
     },
     {
       "symbol": "SUPER",
       "name": "슈퍼버스",
       "upbitPrice": 183,
+      "bithumbPrice": 183
+    },
+    {
+      "symbol": "ACE",
+      "name": "ACE",
+      "upbitPrice": null,
       "bithumbPrice": 183
     },
     {
@@ -736,8 +796,14 @@
     {
       "symbol": "HYPER",
       "name": "하이퍼레인",
-      "upbitPrice": 177,
-      "bithumbPrice": null
+      "upbitPrice": 178,
+      "bithumbPrice": 177
+    },
+    {
+      "symbol": "IO",
+      "name": "IO",
+      "upbitPrice": null,
+      "bithumbPrice": 177
     },
     {
       "symbol": "BLEND",
@@ -748,7 +814,7 @@
     {
       "symbol": "ARB",
       "name": "아비트럼",
-      "upbitPrice": 174,
+      "upbitPrice": 175,
       "bithumbPrice": null
     },
     {
@@ -758,27 +824,33 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "YB",
+      "name": "YB",
+      "upbitPrice": null,
+      "bithumbPrice": 172
+    },
+    {
       "symbol": "ALGO",
       "name": "알고랜드",
-      "upbitPrice": 170,
-      "bithumbPrice": 169
+      "upbitPrice": 171,
+      "bithumbPrice": 171
     },
     {
       "symbol": "TAIKO",
       "name": "타이코",
       "upbitPrice": 169,
-      "bithumbPrice": null
-    },
-    {
-      "symbol": "ZRX",
-      "name": "제로엑스",
-      "upbitPrice": 162,
-      "bithumbPrice": 161
+      "bithumbPrice": 168
     },
     {
       "symbol": "GWEI",
       "name": "GWEI",
       "upbitPrice": null,
+      "bithumbPrice": 163
+    },
+    {
+      "symbol": "ZRX",
+      "name": "제로엑스",
+      "upbitPrice": 162,
       "bithumbPrice": 162
     },
     {
@@ -803,7 +875,7 @@
       "symbol": "BAT",
       "name": "베이직어텐션토큰",
       "upbitPrice": 152,
-      "bithumbPrice": 151
+      "bithumbPrice": 150
     },
     {
       "symbol": "HUNT",
@@ -818,16 +890,16 @@
       "bithumbPrice": 150
     },
     {
+      "symbol": "BASED",
+      "name": "BASED",
+      "upbitPrice": null,
+      "bithumbPrice": 150
+    },
+    {
       "symbol": "ENA",
       "name": "에테나",
       "upbitPrice": 149,
       "bithumbPrice": 150
-    },
-    {
-      "symbol": "BASED",
-      "name": "BASED",
-      "upbitPrice": null,
-      "bithumbPrice": 149
     },
     {
       "symbol": "WET",
@@ -845,13 +917,19 @@
       "symbol": "POL",
       "name": "폴리곤에코시스템토큰",
       "upbitPrice": 142,
-      "bithumbPrice": null
+      "bithumbPrice": 142
     },
     {
       "symbol": "1INCH",
       "name": "1인치네트워크",
       "upbitPrice": 141,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "SAPIEN",
+      "name": "SAPIEN",
+      "upbitPrice": null,
+      "bithumbPrice": 136
     },
     {
       "symbol": "XPL",
@@ -884,16 +962,22 @@
       "bithumbPrice": 131
     },
     {
+      "symbol": "LISTA",
+      "name": "LISTA",
+      "upbitPrice": null,
+      "bithumbPrice": 127
+    },
+    {
       "symbol": "LAYER",
       "name": "솔레이어",
       "upbitPrice": 125,
-      "bithumbPrice": null
+      "bithumbPrice": 125
     },
     {
       "symbol": "2Z",
       "name": "더블제로",
       "upbitPrice": 125,
-      "bithumbPrice": null
+      "bithumbPrice": 126
     },
     {
       "symbol": "ZKP",
@@ -908,16 +992,16 @@
       "bithumbPrice": 125
     },
     {
+      "symbol": "ELSA",
+      "name": "헤이엘사",
+      "upbitPrice": 120,
+      "bithumbPrice": 119
+    },
+    {
       "symbol": "MIRA",
       "name": "미라네트워크",
       "upbitPrice": 120,
       "bithumbPrice": 120
-    },
-    {
-      "symbol": "ELSA",
-      "name": "헤이엘사",
-      "upbitPrice": 119,
-      "bithumbPrice": 118
     },
     {
       "symbol": "SKY",
@@ -941,7 +1025,7 @@
       "symbol": "NEWT",
       "name": "뉴턴프로토콜",
       "upbitPrice": 112,
-      "bithumbPrice": 111
+      "bithumbPrice": 110
     },
     {
       "symbol": "ZKC",
@@ -962,28 +1046,28 @@
       "bithumbPrice": null
     },
     {
-      "symbol": "WAXL",
-      "name": "WAXL",
-      "upbitPrice": null,
-      "bithumbPrice": 108
-    },
-    {
       "symbol": "SAND",
       "name": "샌드박스",
       "upbitPrice": 107,
       "bithumbPrice": null
     },
     {
-      "symbol": "TREE",
-      "name": "트리하우스",
-      "upbitPrice": 105,
-      "bithumbPrice": null
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "upbitPrice": null,
+      "bithumbPrice": 107
     },
     {
       "symbol": "IN",
       "name": "인피닛",
+      "upbitPrice": 106,
+      "bithumbPrice": 105
+    },
+    {
+      "symbol": "TREE",
+      "name": "트리하우스",
       "upbitPrice": 105,
-      "bithumbPrice": 104
+      "bithumbPrice": 105
     },
     {
       "symbol": "WAL",
@@ -1007,24 +1091,42 @@
       "symbol": "TRUST",
       "name": "인튜이션",
       "upbitPrice": 102,
-      "bithumbPrice": null
+      "bithumbPrice": 102
     },
     {
       "symbol": "CRO",
       "name": "크로노스",
-      "upbitPrice": 102,
+      "upbitPrice": 101,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "MANTA",
+      "name": "MANTA",
+      "upbitPrice": null,
+      "bithumbPrice": 100
+    },
+    {
+      "symbol": "FLUX",
+      "name": "FLUX",
+      "upbitPrice": null,
+      "bithumbPrice": 99.35
     },
     {
       "symbol": "KERNEL",
       "name": "커널다오",
-      "upbitPrice": 97.5,
-      "bithumbPrice": null
+      "upbitPrice": 97.9,
+      "bithumbPrice": 107
+    },
+    {
+      "symbol": "MAGIC",
+      "name": "MAGIC",
+      "upbitPrice": null,
+      "bithumbPrice": 95.04
     },
     {
       "symbol": "WCT",
       "name": "월렛커넥트",
-      "upbitPrice": 92.5,
+      "upbitPrice": 93,
       "bithumbPrice": null
     },
     {
@@ -1037,7 +1139,7 @@
       "symbol": "KAVA",
       "name": "카바",
       "upbitPrice": 92.4,
-      "bithumbPrice": 92.29
+      "bithumbPrice": 92.69
     },
     {
       "symbol": "POWR",
@@ -1048,7 +1150,7 @@
     {
       "symbol": "FF",
       "name": "팔콘파이낸스",
-      "upbitPrice": 92.1,
+      "upbitPrice": 92.2,
       "bithumbPrice": null
     },
     {
@@ -1058,10 +1160,16 @@
       "bithumbPrice": 90.1
     },
     {
+      "symbol": "CFX",
+      "name": "CFX",
+      "upbitPrice": null,
+      "bithumbPrice": 89.96
+    },
+    {
       "symbol": "POPCAT",
       "name": "POPCAT",
       "upbitPrice": null,
-      "bithumbPrice": 89.74
+      "bithumbPrice": 89.47
     },
     {
       "symbol": "HIVE",
@@ -1070,16 +1178,16 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "ZETA",
+      "name": "제타체인",
+      "upbitPrice": 88.4,
+      "bithumbPrice": 88.2
+    },
+    {
       "symbol": "MOODENG",
       "name": "무뎅",
       "upbitPrice": 88.3,
-      "bithumbPrice": 88.01
-    },
-    {
-      "symbol": "ZETA",
-      "name": "제타체인",
-      "upbitPrice": 88.2,
-      "bithumbPrice": null
+      "bithumbPrice": 88.14
     },
     {
       "symbol": "MINA",
@@ -1091,19 +1199,13 @@
       "symbol": "CHIP",
       "name": "유에스디에이아이",
       "upbitPrice": 87.7,
-      "bithumbPrice": 87.68
+      "bithumbPrice": 87.86
     },
     {
       "symbol": "SEI",
       "name": "세이",
-      "upbitPrice": 86.4,
+      "upbitPrice": 86.5,
       "bithumbPrice": null
-    },
-    {
-      "symbol": "BIO",
-      "name": "바이오프로토콜",
-      "upbitPrice": 85.5,
-      "bithumbPrice": 85.24
     },
     {
       "symbol": "CARV",
@@ -1112,16 +1214,22 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "BIO",
+      "name": "바이오프로토콜",
+      "upbitPrice": 84.4,
+      "bithumbPrice": 84.03
+    },
+    {
       "symbol": "WLFI",
       "name": "월드리버티파이낸셜",
-      "upbitPrice": 83.8,
-      "bithumbPrice": 83.79
+      "upbitPrice": 83.9,
+      "bithumbPrice": 83.89
     },
     {
       "symbol": "ORDER",
       "name": "오덜리",
       "upbitPrice": 83.8,
-      "bithumbPrice": 83.69
+      "bithumbPrice": 83.51
     },
     {
       "symbol": "STEEM",
@@ -1132,8 +1240,8 @@
     {
       "symbol": "AWE",
       "name": "에이더블유이",
-      "upbitPrice": 82.4,
-      "bithumbPrice": 82.44
+      "upbitPrice": 82.8,
+      "bithumbPrice": 82.84
     },
     {
       "symbol": "AERGO",
@@ -1151,25 +1259,31 @@
       "symbol": "ENJ",
       "name": "ENJ",
       "upbitPrice": null,
-      "bithumbPrice": 76.52
+      "bithumbPrice": 76.68
+    },
+    {
+      "symbol": "DRIFT",
+      "name": "드리프트",
+      "upbitPrice": 76.5,
+      "bithumbPrice": 114
     },
     {
       "symbol": "MLK",
       "name": "밀크",
       "upbitPrice": 76.2,
-      "bithumbPrice": 76.26
+      "bithumbPrice": 76.23
     },
     {
-      "symbol": "DRIFT",
-      "name": "드리프트",
-      "upbitPrice": 76,
-      "bithumbPrice": 115
+      "symbol": "RECALL",
+      "name": "RECALL",
+      "upbitPrice": null,
+      "bithumbPrice": 73.57
     },
     {
       "symbol": "PYTH",
       "name": "피스네트워크",
       "upbitPrice": 72.7,
-      "bithumbPrice": null
+      "bithumbPrice": 72.74
     },
     {
       "symbol": "JOE",
@@ -1184,22 +1298,40 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "EDU",
+      "name": "EDU",
+      "upbitPrice": null,
+      "bithumbPrice": 70.15
+    },
+    {
+      "symbol": "SWAP",
+      "name": "SWAP",
+      "upbitPrice": null,
+      "bithumbPrice": 68.95
+    },
+    {
       "symbol": "KAIA",
       "name": "KAIA",
       "upbitPrice": null,
-      "bithumbPrice": 67.39
+      "bithumbPrice": 67.26
     },
     {
       "symbol": "PARTI",
       "name": "PARTI",
       "upbitPrice": null,
-      "bithumbPrice": 65.92
+      "bithumbPrice": 65.57
     },
     {
       "symbol": "S",
       "name": "S",
       "upbitPrice": null,
       "bithumbPrice": 65.47
+    },
+    {
+      "symbol": "NIL",
+      "name": "NIL",
+      "upbitPrice": null,
+      "bithumbPrice": 65.09
     },
     {
       "symbol": "YGG",
@@ -1211,7 +1343,7 @@
       "symbol": "MBX",
       "name": "MBX",
       "upbitPrice": null,
-      "bithumbPrice": 64.01
+      "bithumbPrice": 63.35
     },
     {
       "symbol": "ARDR",
@@ -1220,45 +1352,51 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "DAO",
+      "name": "DAO",
+      "upbitPrice": null,
+      "bithumbPrice": 61.25
+    },
+    {
       "symbol": "CHZ",
       "name": "칠리즈",
-      "upbitPrice": 59.4,
-      "bithumbPrice": null
+      "upbitPrice": 59.5,
+      "bithumbPrice": 59.53
     },
     {
       "symbol": "IRYS",
       "name": "IRYS",
       "upbitPrice": null,
-      "bithumbPrice": 57.48
-    },
-    {
-      "symbol": "RESOLV",
-      "name": "RESOLV",
-      "upbitPrice": null,
-      "bithumbPrice": 57.41
+      "bithumbPrice": 57.69
     },
     {
       "symbol": "SHELL",
       "name": "SHELL",
       "upbitPrice": null,
-      "bithumbPrice": 57.01
+      "bithumbPrice": 57.37
+    },
+    {
+      "symbol": "RESOLV",
+      "name": "RESOLV",
+      "upbitPrice": null,
+      "bithumbPrice": 57.04
     },
     {
       "symbol": "EDEN",
       "name": "EDEN",
       "upbitPrice": null,
-      "bithumbPrice": 55.97
+      "bithumbPrice": 56.07
     },
     {
       "symbol": "CORE",
       "name": "CORE",
       "upbitPrice": null,
-      "bithumbPrice": 55.93
+      "bithumbPrice": 55.79
     },
     {
       "symbol": "SONIC",
       "name": "소닉SVM",
-      "upbitPrice": 55.6,
+      "upbitPrice": 55.7,
       "bithumbPrice": 55.44
     },
     {
@@ -1277,7 +1415,13 @@
       "symbol": "SPK",
       "name": "스파크",
       "upbitPrice": 53.3,
-      "bithumbPrice": null
+      "bithumbPrice": 53.2
+    },
+    {
+      "symbol": "PROMPT",
+      "name": "PROMPT",
+      "upbitPrice": null,
+      "bithumbPrice": 53.03
     },
     {
       "symbol": "MERL",
@@ -1289,13 +1433,13 @@
       "symbol": "STABLE",
       "name": "STABLE",
       "upbitPrice": null,
-      "bithumbPrice": 49.04
+      "bithumbPrice": 49
     },
     {
       "symbol": "CPOOL",
       "name": "클리어풀",
       "upbitPrice": 47.9,
-      "bithumbPrice": 47.33
+      "bithumbPrice": 47.28
     },
     {
       "symbol": "PHA",
@@ -1304,10 +1448,22 @@
       "bithumbPrice": 47.89
     },
     {
-      "symbol": "GRND",
-      "name": "GRND",
+      "symbol": "HAEDAL",
+      "name": "HAEDAL",
       "upbitPrice": null,
-      "bithumbPrice": 46.03
+      "bithumbPrice": 46.64
+    },
+    {
+      "symbol": "OSMO",
+      "name": "OSMO",
+      "upbitPrice": null,
+      "bithumbPrice": 46.39
+    },
+    {
+      "symbol": "BB",
+      "name": "BB",
+      "upbitPrice": null,
+      "bithumbPrice": 46.26
     },
     {
       "symbol": "ID",
@@ -1319,13 +1475,19 @@
       "symbol": "STAT",
       "name": "STAT",
       "upbitPrice": null,
-      "bithumbPrice": 45.42
+      "bithumbPrice": 45.94
     },
     {
       "symbol": "CVC",
       "name": "시빅",
       "upbitPrice": 45.4,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "GRND",
+      "name": "GRND",
+      "upbitPrice": null,
+      "bithumbPrice": 44.53
     },
     {
       "symbol": "MON",
@@ -1336,26 +1498,26 @@
     {
       "symbol": "DEEP",
       "name": "딥북",
-      "upbitPrice": 44.1,
-      "bithumbPrice": 44.09
-    },
-    {
-      "symbol": "AVL",
-      "name": "AVL",
-      "upbitPrice": null,
-      "bithumbPrice": 42.1
+      "upbitPrice": 43.9,
+      "bithumbPrice": 43.96
     },
     {
       "symbol": "BTR",
       "name": "BTR",
       "upbitPrice": null,
-      "bithumbPrice": 42.02
+      "bithumbPrice": 42.06
     },
     {
       "symbol": "ZAMA",
       "name": "자마",
       "upbitPrice": 41.3,
-      "bithumbPrice": 40.95
+      "bithumbPrice": 41.1
+    },
+    {
+      "symbol": "AVL",
+      "name": "AVL",
+      "upbitPrice": null,
+      "bithumbPrice": 40.81
     },
     {
       "symbol": "MOC",
@@ -1378,32 +1540,38 @@
     {
       "symbol": "SAHARA",
       "name": "사하라에이아이",
-      "upbitPrice": 36.1,
-      "bithumbPrice": 36.11
+      "upbitPrice": 36.2,
+      "bithumbPrice": 36.15
+    },
+    {
+      "symbol": "BOBA",
+      "name": "BOBA",
+      "upbitPrice": null,
+      "bithumbPrice": 35.41
     },
     {
       "symbol": "OGN",
       "name": "OGN",
       "upbitPrice": null,
-      "bithumbPrice": 35.11
-    },
-    {
-      "symbol": "THQ",
-      "name": "THQ",
-      "upbitPrice": null,
-      "bithumbPrice": 33.88
+      "bithumbPrice": 35.15
     },
     {
       "symbol": "PUFFER",
       "name": "PUFFER",
       "upbitPrice": null,
-      "bithumbPrice": 33.86
+      "bithumbPrice": 33.88
+    },
+    {
+      "symbol": "THQ",
+      "name": "THQ",
+      "upbitPrice": null,
+      "bithumbPrice": 33.85
     },
     {
       "symbol": "BABY",
       "name": "BABY",
       "upbitPrice": null,
-      "bithumbPrice": 32.57
+      "bithumbPrice": 32.55
     },
     {
       "symbol": "HUMA",
@@ -1418,6 +1586,12 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "AUDIO",
+      "name": "AUDIO",
+      "upbitPrice": null,
+      "bithumbPrice": 29.74
+    },
+    {
       "symbol": "AZTEC",
       "name": "아즈텍",
       "upbitPrice": 29.4,
@@ -1426,20 +1600,26 @@
     {
       "symbol": "SUN",
       "name": "썬",
-      "upbitPrice": 28.8,
-      "bithumbPrice": null
+      "upbitPrice": 28.7,
+      "bithumbPrice": 28.76
+    },
+    {
+      "symbol": "WOO",
+      "name": "WOO",
+      "upbitPrice": null,
+      "bithumbPrice": 28.23
     },
     {
       "symbol": "PEAQ",
       "name": "PEAQ",
       "upbitPrice": null,
-      "bithumbPrice": 26.72
+      "bithumbPrice": 26.61
     },
     {
       "symbol": "MOVE",
       "name": "무브먼트",
       "upbitPrice": 26.3,
-      "bithumbPrice": null
+      "bithumbPrice": 26.25
     },
     {
       "symbol": "SENT",
@@ -1450,20 +1630,14 @@
     {
       "symbol": "ZK",
       "name": "지케이싱크",
-      "upbitPrice": 25,
-      "bithumbPrice": null
+      "upbitPrice": 25.1,
+      "bithumbPrice": 25.03
     },
     {
-      "symbol": "MAV",
-      "name": "MAV",
+      "symbol": "BFC",
+      "name": "BFC",
       "upbitPrice": null,
-      "bithumbPrice": 24.5
-    },
-    {
-      "symbol": "XTER",
-      "name": "XTER",
-      "upbitPrice": null,
-      "bithumbPrice": 24.4
+      "bithumbPrice": 24.38
     },
     {
       "symbol": "BLUE",
@@ -1472,16 +1646,22 @@
       "bithumbPrice": 24.3
     },
     {
+      "symbol": "XTER",
+      "name": "XTER",
+      "upbitPrice": null,
+      "bithumbPrice": 24.28
+    },
+    {
       "symbol": "SKR",
       "name": "시커",
       "upbitPrice": 24.1,
-      "bithumbPrice": null
+      "bithumbPrice": 24.05
     },
     {
       "symbol": "PUMPBTC",
       "name": "PUMPBTC",
       "upbitPrice": null,
-      "bithumbPrice": 23.95
+      "bithumbPrice": 23.8
     },
     {
       "symbol": "HP",
@@ -1490,10 +1670,22 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "MAV",
+      "name": "MAV",
+      "upbitPrice": null,
+      "bithumbPrice": 23.44
+    },
+    {
       "symbol": "SIGN",
       "name": "사인",
-      "upbitPrice": 23.1,
-      "bithumbPrice": null
+      "upbitPrice": 23,
+      "bithumbPrice": 22.99
+    },
+    {
+      "symbol": "HFT",
+      "name": "HFT",
+      "upbitPrice": null,
+      "bithumbPrice": 21.55
     },
     {
       "symbol": "BIGTIME",
@@ -1511,31 +1703,31 @@
       "symbol": "D",
       "name": "D",
       "upbitPrice": null,
-      "bithumbPrice": 19.84
+      "bithumbPrice": 19.9
     },
     {
       "symbol": "STRAX",
       "name": "저트라",
-      "upbitPrice": 19.2,
+      "upbitPrice": 19.3,
       "bithumbPrice": null
     },
     {
       "symbol": "W",
       "name": "웜홀",
       "upbitPrice": 18.8,
-      "bithumbPrice": null
+      "bithumbPrice": 18.85
     },
     {
       "symbol": "ZORA",
       "name": "조라",
       "upbitPrice": 18.8,
-      "bithumbPrice": 18.76
+      "bithumbPrice": 18.75
     },
     {
       "symbol": "FCT2",
       "name": "피르마체인",
       "upbitPrice": 18.7,
-      "bithumbPrice": null
+      "bithumbPrice": 18.57
     },
     {
       "symbol": "XPLA",
@@ -1559,7 +1751,7 @@
       "symbol": "PLUME",
       "name": "플룸",
       "upbitPrice": 17,
-      "bithumbPrice": null
+      "bithumbPrice": 17.13
     },
     {
       "symbol": "GMT",
@@ -1568,10 +1760,22 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "AGI",
+      "name": "AGI",
+      "upbitPrice": null,
+      "bithumbPrice": 15.41
+    },
+    {
+      "symbol": "A8",
+      "name": "A8",
+      "upbitPrice": null,
+      "bithumbPrice": 15.29
+    },
+    {
       "symbol": "MANTRA",
       "name": "만트라",
       "upbitPrice": 15.1,
-      "bithumbPrice": 15.05
+      "bithumbPrice": 15.04
     },
     {
       "symbol": "SNT",
@@ -1583,7 +1787,7 @@
       "symbol": "PENGU",
       "name": "펏지펭귄",
       "upbitPrice": 14.5,
-      "bithumbPrice": 14.51
+      "bithumbPrice": 14.5
     },
     {
       "symbol": "META",
@@ -1595,7 +1799,13 @@
       "symbol": "KAT",
       "name": "카타나",
       "upbitPrice": 14,
-      "bithumbPrice": null
+      "bithumbPrice": 14.01
+    },
+    {
+      "symbol": "OXT",
+      "name": "OXT",
+      "upbitPrice": null,
+      "bithumbPrice": 13.96
     },
     {
       "symbol": "SOPH",
@@ -1604,22 +1814,34 @@
       "bithumbPrice": 13.11
     },
     {
-      "symbol": "POLA",
-      "name": "POLA",
+      "symbol": "SIX",
+      "name": "SIX",
       "upbitPrice": null,
-      "bithumbPrice": 12.77
+      "bithumbPrice": 13.2
     },
     {
       "symbol": "ASTR",
       "name": "아스타",
-      "upbitPrice": 12.6,
-      "bithumbPrice": null
+      "upbitPrice": 12.7,
+      "bithumbPrice": 12.63
     },
     {
       "symbol": "ORBS",
       "name": "오브스",
       "upbitPrice": 12.6,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "POLA",
+      "name": "POLA",
+      "upbitPrice": null,
+      "bithumbPrice": 12.46
+    },
+    {
+      "symbol": "GHX",
+      "name": "GHX",
+      "upbitPrice": null,
+      "bithumbPrice": 12.26
     },
     {
       "symbol": "HOOK",
@@ -1634,22 +1856,52 @@
       "bithumbPrice": 11.98
     },
     {
+      "symbol": "ACH",
+      "name": "ACH",
+      "upbitPrice": null,
+      "bithumbPrice": 11.85
+    },
+    {
+      "symbol": "BRETT",
+      "name": "BRETT",
+      "upbitPrice": null,
+      "bithumbPrice": 11.77
+    },
+    {
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "upbitPrice": null,
+      "bithumbPrice": 11.64
+    },
+    {
+      "symbol": "GPS",
+      "name": "GPS",
+      "upbitPrice": null,
+      "bithumbPrice": 11.55
+    },
+    {
+      "symbol": "NCT",
+      "name": "NCT",
+      "upbitPrice": null,
+      "bithumbPrice": 11.51
+    },
+    {
       "symbol": "ALT",
       "name": "알트레이어",
       "upbitPrice": 11.4,
       "bithumbPrice": null
     },
     {
-      "symbol": "FLR",
-      "name": "FLR",
-      "upbitPrice": null,
-      "bithumbPrice": 11.15
-    },
-    {
       "symbol": "HEMI",
       "name": "HEMI",
       "upbitPrice": null,
-      "bithumbPrice": 11.13
+      "bithumbPrice": 11.18
+    },
+    {
+      "symbol": "FLR",
+      "name": "FLR",
+      "upbitPrice": null,
+      "bithumbPrice": 11.1
     },
     {
       "symbol": "VET",
@@ -1658,10 +1910,10 @@
       "bithumbPrice": null
     },
     {
-      "symbol": "RSS3",
-      "name": "RSS3",
+      "symbol": "SKL",
+      "name": "SKL",
       "upbitPrice": null,
-      "bithumbPrice": 10.49
+      "bithumbPrice": 10.12
     },
     {
       "symbol": "WAXP",
@@ -1670,21 +1922,33 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "UOS",
+      "name": "UOS",
+      "upbitPrice": null,
+      "bithumbPrice": 9.231
+    },
+    {
+      "symbol": "MAY",
+      "name": "MAY",
+      "upbitPrice": null,
+      "bithumbPrice": 8.9
+    },
+    {
       "symbol": "T",
       "name": "쓰레스홀드",
-      "upbitPrice": 8.83,
+      "upbitPrice": 8.85,
       "bithumbPrice": null
     },
     {
       "symbol": "RVN",
       "name": "레이븐코인",
-      "upbitPrice": 8.78,
+      "upbitPrice": 8.76,
       "bithumbPrice": null
     },
     {
       "symbol": "ATH",
       "name": "에이셔",
-      "upbitPrice": 8.77,
+      "upbitPrice": 8.75,
       "bithumbPrice": null
     },
     {
@@ -1697,13 +1961,13 @@
       "symbol": "BOB",
       "name": "BOB",
       "upbitPrice": null,
-      "bithumbPrice": 8.356
+      "bithumbPrice": 8.265
     },
     {
       "symbol": "WNCG",
       "name": "WNCG",
       "upbitPrice": null,
-      "bithumbPrice": 8.225
+      "bithumbPrice": 8.231
     },
     {
       "symbol": "F",
@@ -1715,19 +1979,19 @@
       "symbol": "REZ",
       "name": "REZ",
       "upbitPrice": null,
-      "bithumbPrice": 7.979
+      "bithumbPrice": 7.993
     },
     {
       "symbol": "XCN",
       "name": "오닉스코인",
       "upbitPrice": 7.61,
-      "bithumbPrice": 7.565
+      "bithumbPrice": 7.572
     },
     {
       "symbol": "ANKR",
       "name": "앵커",
-      "upbitPrice": 7.14,
-      "bithumbPrice": null
+      "upbitPrice": 7.11,
+      "bithumbPrice": 7.127
     },
     {
       "symbol": "ANIME",
@@ -1739,25 +2003,31 @@
       "symbol": "SUNDOG",
       "name": "SUNDOG",
       "upbitPrice": null,
-      "bithumbPrice": 6.988
+      "bithumbPrice": 6.98
     },
     {
       "symbol": "SOLV",
       "name": "SOLV",
       "upbitPrice": null,
-      "bithumbPrice": 6.682
+      "bithumbPrice": 6.652
     },
     {
       "symbol": "TAVA",
       "name": "TAVA",
       "upbitPrice": null,
-      "bithumbPrice": 6.358
+      "bithumbPrice": 6.23
     },
     {
       "symbol": "ZIL",
       "name": "질리카",
       "upbitPrice": 6.02,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "AVAIL",
+      "name": "AVAIL",
+      "upbitPrice": null,
+      "bithumbPrice": 5.953
     },
     {
       "symbol": "G",
@@ -1768,14 +2038,20 @@
     {
       "symbol": "LINEA",
       "name": "리네아",
-      "upbitPrice": 5.3,
+      "upbitPrice": 5.31,
       "bithumbPrice": null
     },
     {
       "symbol": "XYO",
       "name": "XYO",
       "upbitPrice": null,
-      "bithumbPrice": 5.193
+      "bithumbPrice": 5.183
+    },
+    {
+      "symbol": "TOWNS",
+      "name": "TOWNS",
+      "upbitPrice": null,
+      "bithumbPrice": 5.111
     },
     {
       "symbol": "QKC",
@@ -1796,6 +2072,12 @@
       "bithumbPrice": 4.445
     },
     {
+      "symbol": "REI",
+      "name": "REI",
+      "upbitPrice": null,
+      "bithumbPrice": 4.2
+    },
+    {
       "symbol": "CSPR",
       "name": "CSPR",
       "upbitPrice": null,
@@ -1812,6 +2094,12 @@
       "name": "메디블록",
       "upbitPrice": 3.16,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "WIKEN",
+      "name": "WIKEN",
+      "upbitPrice": null,
+      "bithumbPrice": 3.041
     },
     {
       "symbol": "BEAM",
@@ -1838,22 +2126,34 @@
       "bithumbPrice": 2.678
     },
     {
+      "symbol": "RSR",
+      "name": "RSR",
+      "upbitPrice": null,
+      "bithumbPrice": 2.643
+    },
+    {
       "symbol": "MVC",
       "name": "MVC",
       "upbitPrice": null,
-      "bithumbPrice": 2.55
+      "bithumbPrice": 2.54
     },
     {
       "symbol": "AHT",
       "name": "아하토큰",
-      "upbitPrice": 2.26,
-      "bithumbPrice": null
+      "upbitPrice": 2.25,
+      "bithumbPrice": 2.259
     },
     {
       "symbol": "CKB",
       "name": "너보스",
       "upbitPrice": 2.21,
       "bithumbPrice": null
+    },
+    {
+      "symbol": "FANC",
+      "name": "FANC",
+      "upbitPrice": null,
+      "bithumbPrice": 2.085
     },
     {
       "symbol": "ZRC",
@@ -1894,20 +2194,14 @@
     {
       "symbol": "IOST",
       "name": "아이오에스티",
-      "upbitPrice": 1.58,
-      "bithumbPrice": 1.581
+      "upbitPrice": 1.59,
+      "bithumbPrice": 1.587
     },
     {
       "symbol": "OBT",
       "name": "OBT",
       "upbitPrice": null,
-      "bithumbPrice": 1.479
-    },
-    {
-      "symbol": "MBL",
-      "name": "무비블록",
-      "upbitPrice": 1.38,
-      "bithumbPrice": null
+      "bithumbPrice": 1.48
     },
     {
       "symbol": "SC",
@@ -1916,10 +2210,16 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "MBL",
+      "name": "무비블록",
+      "upbitPrice": 1.37,
+      "bithumbPrice": null
+    },
+    {
       "symbol": "EGG",
       "name": "EGG",
       "upbitPrice": null,
-      "bithumbPrice": 1.325
+      "bithumbPrice": 1.332
     },
     {
       "symbol": "TT",
@@ -1928,16 +2228,40 @@
       "bithumbPrice": null
     },
     {
+      "symbol": "LM",
+      "name": "LM",
+      "upbitPrice": null,
+      "bithumbPrice": 1.222
+    },
+    {
+      "symbol": "EPT",
+      "name": "EPT",
+      "upbitPrice": null,
+      "bithumbPrice": 1.057
+    },
+    {
       "symbol": "TDROP",
       "name": "TDROP",
       "upbitPrice": null,
-      "bithumbPrice": 0.9532
+      "bithumbPrice": 0.94
     },
     {
       "symbol": "OBSR",
       "name": "OBSR",
       "upbitPrice": null,
-      "bithumbPrice": 0.9235
+      "bithumbPrice": 0.9346
+    },
+    {
+      "symbol": "FITFI",
+      "name": "FITFI",
+      "upbitPrice": null,
+      "bithumbPrice": 0.9022
+    },
+    {
+      "symbol": "ADP",
+      "name": "ADP",
+      "upbitPrice": null,
+      "bithumbPrice": 0.8898
     },
     {
       "symbol": "MEW",
@@ -1954,7 +2278,7 @@
     {
       "symbol": "BLAST",
       "name": "블라스트",
-      "upbitPrice": 0.712,
+      "upbitPrice": 0.714,
       "bithumbPrice": null
     },
     {
@@ -1967,19 +2291,19 @@
       "symbol": "BIOT",
       "name": "BIOT",
       "upbitPrice": null,
-      "bithumbPrice": 0.5634
+      "bithumbPrice": 0.5592
     },
     {
       "symbol": "ZTX",
       "name": "ZTX",
       "upbitPrice": null,
-      "bithumbPrice": 0.5279
+      "bithumbPrice": 0.523
     },
     {
       "symbol": "B3",
       "name": "B3",
       "upbitPrice": null,
-      "bithumbPrice": 0.4188
+      "bithumbPrice": 0.4194
     },
     {
       "symbol": "TOSHI",
@@ -1991,7 +2315,13 @@
       "symbol": "CRTS",
       "name": "CRTS",
       "upbitPrice": null,
-      "bithumbPrice": 0.1792
+      "bithumbPrice": 0.1824
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "upbitPrice": null,
+      "bithumbPrice": 0.0474
     },
     {
       "symbol": "XEC",
@@ -2002,20 +2332,20 @@
     {
       "symbol": "BONK",
       "name": "봉크",
-      "upbitPrice": 0.00925,
+      "upbitPrice": 0.00927,
       "bithumbPrice": null
     },
     {
       "symbol": "SHIB",
       "name": "시바이누",
-      "upbitPrice": 0.00922,
+      "upbitPrice": 0.00923,
       "bithumbPrice": 0.0092
     },
     {
       "symbol": "PEPE",
       "name": "페페",
       "upbitPrice": 0.00589,
-      "bithumbPrice": null
+      "bithumbPrice": 0.0058
     },
     {
       "symbol": "BTT",
