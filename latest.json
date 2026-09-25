@@ -1,4 +1,2915 @@
 {
-  "updatedAt": 1790338922554,
-  "data": []
+  "updatedAt": 1790339032551,
+  "data": [
+    {
+      "symbol": "BTC",
+      "name": "BTC",
+      "upbitPrice": 114205000,
+      "bithumbPrice": 114049000
+    },
+    {
+      "symbol": "XAUT",
+      "name": "XAUT",
+      "upbitPrice": 5812000,
+      "bithumbPrice": 5824000
+    },
+    {
+      "symbol": "PAXG",
+      "name": "PAXG",
+      "upbitPrice": null,
+      "bithumbPrice": 5784000
+    },
+    {
+      "symbol": "ETH",
+      "name": "ETH",
+      "upbitPrice": 3658000,
+      "bithumbPrice": 3658000
+    },
+    {
+      "symbol": "YFI",
+      "name": "YFI",
+      "upbitPrice": null,
+      "bithumbPrice": 3236000
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "upbitPrice": null,
+      "bithumbPrice": 1052000
+    },
+    {
+      "symbol": "BCH",
+      "name": "BCH",
+      "upbitPrice": 451900,
+      "bithumbPrice": 451500
+    },
+    {
+      "symbol": "TAO",
+      "name": "TAO",
+      "upbitPrice": 416000,
+      "bithumbPrice": 415100
+    },
+    {
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "upbitPrice": 199300,
+      "bithumbPrice": 198700
+    },
+    {
+      "symbol": "SOL",
+      "name": "SOL",
+      "upbitPrice": 161700,
+      "bithumbPrice": 161700
+    },
+    {
+      "symbol": "GNO",
+      "name": "GNO",
+      "upbitPrice": null,
+      "bithumbPrice": 154800
+    },
+    {
+      "symbol": "VVV",
+      "name": "VVV",
+      "upbitPrice": 42050,
+      "bithumbPrice": 41670
+    },
+    {
+      "symbol": "COMP",
+      "name": "COMP",
+      "upbitPrice": 32520,
+      "bithumbPrice": 32210
+    },
+    {
+      "symbol": "BSV",
+      "name": "BSV",
+      "upbitPrice": 28910,
+      "bithumbPrice": 28800
+    },
+    {
+      "symbol": "TRB",
+      "name": "TRB",
+      "upbitPrice": null,
+      "bithumbPrice": 26870
+    },
+    {
+      "symbol": "LINK",
+      "name": "LINK",
+      "upbitPrice": 18890,
+      "bithumbPrice": 18900
+    },
+    {
+      "symbol": "AVAX",
+      "name": "AVAX",
+      "upbitPrice": 14540,
+      "bithumbPrice": 14250
+    },
+    {
+      "symbol": "UNI",
+      "name": "UNI",
+      "upbitPrice": 13160,
+      "bithumbPrice": 13090
+    },
+    {
+      "symbol": "NMR",
+      "name": "NMR",
+      "upbitPrice": null,
+      "bithumbPrice": 13100
+    },
+    {
+      "symbol": "ETC",
+      "name": "ETC",
+      "upbitPrice": 12900,
+      "bithumbPrice": 12930
+    },
+    {
+      "symbol": "INJ",
+      "name": "INJ",
+      "upbitPrice": 11140,
+      "bithumbPrice": 11170
+    },
+    {
+      "symbol": "GMX",
+      "name": "GMX",
+      "upbitPrice": null,
+      "bithumbPrice": 11010
+    },
+    {
+      "symbol": "ENS",
+      "name": "ENS",
+      "upbitPrice": 9620,
+      "bithumbPrice": 9640
+    },
+    {
+      "symbol": "META2",
+      "name": "META2",
+      "upbitPrice": 7885,
+      "bithumbPrice": 7770
+    },
+    {
+      "symbol": "PROM",
+      "name": "PROM",
+      "upbitPrice": 7330,
+      "bithumbPrice": 7280
+    },
+    {
+      "symbol": "EGLD",
+      "name": "EGLD",
+      "upbitPrice": 7040,
+      "bithumbPrice": 7585
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "upbitPrice": 6745,
+      "bithumbPrice": 6755
+    },
+    {
+      "symbol": "LIT",
+      "name": "LIT",
+      "upbitPrice": 6580,
+      "bithumbPrice": 6540
+    },
+    {
+      "symbol": "KSM",
+      "name": "KSM",
+      "upbitPrice": null,
+      "bithumbPrice": 6310
+    },
+    {
+      "symbol": "AR",
+      "name": "AR",
+      "upbitPrice": null,
+      "bithumbPrice": 6200
+    },
+    {
+      "symbol": "AUCTION",
+      "name": "AUCTION",
+      "upbitPrice": 5180,
+      "bithumbPrice": 5200
+    },
+    {
+      "symbol": "ILV",
+      "name": "ILV",
+      "upbitPrice": null,
+      "bithumbPrice": 5070
+    },
+    {
+      "symbol": "METIS",
+      "name": "METIS",
+      "upbitPrice": null,
+      "bithumbPrice": 4690
+    },
+    {
+      "symbol": "XVS",
+      "name": "XVS",
+      "upbitPrice": null,
+      "bithumbPrice": 4430
+    },
+    {
+      "symbol": "ICP",
+      "name": "ICP",
+      "upbitPrice": 4269,
+      "bithumbPrice": 4259
+    },
+    {
+      "symbol": "CAKE",
+      "name": "CAKE",
+      "upbitPrice": null,
+      "bithumbPrice": 3808
+    },
+    {
+      "symbol": "MORPHO",
+      "name": "MORPHO",
+      "upbitPrice": 3790,
+      "bithumbPrice": 3774
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "upbitPrice": 3555,
+      "bithumbPrice": 3562
+    },
+    {
+      "symbol": "PENDLE",
+      "name": "PENDLE",
+      "upbitPrice": 3514,
+      "bithumbPrice": 3470
+    },
+    {
+      "symbol": "RAY",
+      "name": "RAY",
+      "upbitPrice": 2837,
+      "bithumbPrice": 2788
+    },
+    {
+      "symbol": "DEBIT",
+      "name": "DEBIT",
+      "upbitPrice": null,
+      "bithumbPrice": 2835
+    },
+    {
+      "symbol": "TRUMP",
+      "name": "TRUMP",
+      "upbitPrice": 2817,
+      "bithumbPrice": 2815
+    },
+    {
+      "symbol": "RPL",
+      "name": "RPL",
+      "upbitPrice": null,
+      "bithumbPrice": 2727
+    },
+    {
+      "symbol": "RENDER",
+      "name": "RENDER",
+      "upbitPrice": 2612,
+      "bithumbPrice": 2616
+    },
+    {
+      "symbol": "DEXE",
+      "name": "DEXE",
+      "upbitPrice": null,
+      "bithumbPrice": 2606
+    },
+    {
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "upbitPrice": 2435,
+      "bithumbPrice": 2414
+    },
+    {
+      "symbol": "LPT",
+      "name": "LPT",
+      "upbitPrice": 2247,
+      "bithumbPrice": 2243
+    },
+    {
+      "symbol": "ORCA",
+      "name": "ORCA",
+      "upbitPrice": 2205,
+      "bithumbPrice": 2207
+    },
+    {
+      "symbol": "PIEVERSE",
+      "name": "PIEVERSE",
+      "upbitPrice": 2164,
+      "bithumbPrice": 2145
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "upbitPrice": 2157,
+      "bithumbPrice": 2157
+    },
+    {
+      "symbol": "ZRO",
+      "name": "ZRO",
+      "upbitPrice": 2029,
+      "bithumbPrice": 2037
+    },
+    {
+      "symbol": "GAS",
+      "name": "GAS",
+      "upbitPrice": 1987,
+      "bithumbPrice": 1976
+    },
+    {
+      "symbol": "FLUID",
+      "name": "FLUID",
+      "upbitPrice": 1925,
+      "bithumbPrice": 1926
+    },
+    {
+      "symbol": "GRAM",
+      "name": "GRAM",
+      "upbitPrice": null,
+      "bithumbPrice": 1920
+    },
+    {
+      "symbol": "EUL",
+      "name": "EUL",
+      "upbitPrice": 1912,
+      "bithumbPrice": 1893
+    },
+    {
+      "symbol": "DOT",
+      "name": "DOT",
+      "upbitPrice": 1598,
+      "bithumbPrice": 1597
+    },
+    {
+      "symbol": "AXS",
+      "name": "AXS",
+      "upbitPrice": 1579,
+      "bithumbPrice": 1589
+    },
+    {
+      "symbol": "VANA",
+      "name": "VANA",
+      "upbitPrice": 1553,
+      "bithumbPrice": 1535
+    },
+    {
+      "symbol": "EURC",
+      "name": "EURC",
+      "upbitPrice": 1542,
+      "bithumbPrice": 1552
+    },
+    {
+      "symbol": "SUI",
+      "name": "SUI",
+      "upbitPrice": 1523,
+      "bithumbPrice": 1524
+    },
+    {
+      "symbol": "QTUM",
+      "name": "QTUM",
+      "upbitPrice": 1391,
+      "bithumbPrice": 1393
+    },
+    {
+      "symbol": "ENSO",
+      "name": "ENSO",
+      "upbitPrice": 1390,
+      "bithumbPrice": 1380
+    },
+    {
+      "symbol": "FIL",
+      "name": "FIL",
+      "upbitPrice": 1379,
+      "bithumbPrice": 1370
+    },
+    {
+      "symbol": "USDS",
+      "name": "USDS",
+      "upbitPrice": 1358,
+      "bithumbPrice": 1352
+    },
+    {
+      "symbol": "USDG",
+      "name": "USDG",
+      "upbitPrice": 1355,
+      "bithumbPrice": 1353
+    },
+    {
+      "symbol": "USDT",
+      "name": "USDT",
+      "upbitPrice": 1354,
+      "bithumbPrice": 1355
+    },
+    {
+      "symbol": "USD1",
+      "name": "USD1",
+      "upbitPrice": 1353,
+      "bithumbPrice": 1352
+    },
+    {
+      "symbol": "RLUSD",
+      "name": "RLUSD",
+      "upbitPrice": 1353,
+      "bithumbPrice": 1354
+    },
+    {
+      "symbol": "USDC",
+      "name": "USDC",
+      "upbitPrice": 1352,
+      "bithumbPrice": 1355
+    },
+    {
+      "symbol": "PYUSD",
+      "name": "PYUSD",
+      "upbitPrice": 1351,
+      "bithumbPrice": null
+    },
+    {
+      "symbol": "USDE",
+      "name": "USDE",
+      "upbitPrice": 1351,
+      "bithumbPrice": 1357
+    },
+    {
+      "symbol": "NEXO",
+      "name": "NEXO",
+      "upbitPrice": null,
+      "bithumbPrice": 1181
+    },
+    {
+      "symbol": "APT",
+      "name": "APT",
+      "upbitPrice": 1139,
+      "bithumbPrice": 1131
+    },
+    {
+      "symbol": "VIRTUAL",
+      "name": "VIRTUAL",
+      "upbitPrice": 1060,
+      "bithumbPrice": 1061
+    },
+    {
+      "symbol": "AERO",
+      "name": "AERO",
+      "upbitPrice": 1048,
+      "bithumbPrice": 1037
+    },
+    {
+      "symbol": "ASTER",
+      "name": "ASTER",
+      "upbitPrice": null,
+      "bithumbPrice": 979
+    },
+    {
+      "symbol": "ETHFI",
+      "name": "ETHFI",
+      "upbitPrice": 955,
+      "bithumbPrice": 950
+    },
+    {
+      "symbol": "AKT",
+      "name": "AKT",
+      "upbitPrice": 938,
+      "bithumbPrice": 933
+    },
+    {
+      "symbol": "MNT",
+      "name": "MNT",
+      "upbitPrice": 913,
+      "bithumbPrice": 910
+    },
+    {
+      "symbol": "PROS",
+      "name": "PROS",
+      "upbitPrice": 883,
+      "bithumbPrice": 884
+    },
+    {
+      "symbol": "EDGEX",
+      "name": "EDGEX",
+      "upbitPrice": null,
+      "bithumbPrice": 745
+    },
+    {
+      "symbol": "ONDO",
+      "name": "ONDO",
+      "upbitPrice": 735,
+      "bithumbPrice": 736
+    },
+    {
+      "symbol": "JTO",
+      "name": "JTO",
+      "upbitPrice": 733,
+      "bithumbPrice": 727
+    },
+    {
+      "symbol": "O",
+      "name": "O",
+      "upbitPrice": 725,
+      "bithumbPrice": 715
+    },
+    {
+      "symbol": "TIA",
+      "name": "TIA",
+      "upbitPrice": 672,
+      "bithumbPrice": 667
+    },
+    {
+      "symbol": "HNT",
+      "name": "HNT",
+      "upbitPrice": null,
+      "bithumbPrice": 669
+    },
+    {
+      "symbol": "GRASS",
+      "name": "GRASS",
+      "upbitPrice": null,
+      "bithumbPrice": 648
+    },
+    {
+      "symbol": "RE",
+      "name": "RE",
+      "upbitPrice": 628,
+      "bithumbPrice": 622
+    },
+    {
+      "symbol": "MASK",
+      "name": "MASK",
+      "upbitPrice": 628,
+      "bithumbPrice": 620
+    },
+    {
+      "symbol": "WLD",
+      "name": "WLD",
+      "upbitPrice": 614,
+      "bithumbPrice": 612
+    },
+    {
+      "symbol": "SPX",
+      "name": "SPX",
+      "upbitPrice": 612,
+      "bithumbPrice": 603
+    },
+    {
+      "symbol": "LDO",
+      "name": "LDO",
+      "upbitPrice": null,
+      "bithumbPrice": 611
+    },
+    {
+      "symbol": "DRV",
+      "name": "DRV",
+      "upbitPrice": 589,
+      "bithumbPrice": 581
+    },
+    {
+      "symbol": "UMA",
+      "name": "UMA",
+      "upbitPrice": null,
+      "bithumbPrice": 543
+    },
+    {
+      "symbol": "TOKAMAK",
+      "name": "TOKAMAK",
+      "upbitPrice": 508,
+      "bithumbPrice": 504
+    },
+    {
+      "symbol": "TRAC",
+      "name": "TRAC",
+      "upbitPrice": 506,
+      "bithumbPrice": 500
+    },
+    {
+      "symbol": "KAITO",
+      "name": "KAITO",
+      "upbitPrice": 469,
+      "bithumbPrice": 464
+    },
+    {
+      "symbol": "CYBER",
+      "name": "CYBER",
+      "upbitPrice": 468,
+      "bithumbPrice": 461
+    },
+    {
+      "symbol": "CRV",
+      "name": "CRV",
+      "upbitPrice": 467,
+      "bithumbPrice": 467
+    },
+    {
+      "symbol": "BNT",
+      "name": "BNT",
+      "upbitPrice": null,
+      "bithumbPrice": 465
+    },
+    {
+      "symbol": "MTL",
+      "name": "MTL",
+      "upbitPrice": 462,
+      "bithumbPrice": 461
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRX",
+      "upbitPrice": 457,
+      "bithumbPrice": 457
+    },
+    {
+      "symbol": "MET2",
+      "name": "MET2",
+      "upbitPrice": 451,
+      "bithumbPrice": null
+    },
+    {
+      "symbol": "XTZ",
+      "name": "XTZ",
+      "upbitPrice": 451,
+      "bithumbPrice": 448
+    },
+    {
+      "symbol": "MET",
+      "name": "MET",
+      "upbitPrice": null,
+      "bithumbPrice": 451
+    },
+    {
+      "symbol": "RLC",
+      "name": "RLC",
+      "upbitPrice": null,
+      "bithumbPrice": 447
+    },
+    {
+      "symbol": "STX",
+      "name": "STX",
+      "upbitPrice": 446,
+      "bithumbPrice": 445
+    },
+    {
+      "symbol": "JUP",
+      "name": "JUP",
+      "upbitPrice": 434,
+      "bithumbPrice": 432
+    },
+    {
+      "symbol": "LSK",
+      "name": "LSK",
+      "upbitPrice": 413,
+      "bithumbPrice": 468
+    },
+    {
+      "symbol": "FRAX",
+      "name": "FRAX",
+      "upbitPrice": null,
+      "bithumbPrice": 413
+    },
+    {
+      "symbol": "SFP",
+      "name": "SFP",
+      "upbitPrice": null,
+      "bithumbPrice": 408
+    },
+    {
+      "symbol": "WAVES",
+      "name": "WAVES",
+      "upbitPrice": 402,
+      "bithumbPrice": 402
+    },
+    {
+      "symbol": "USELESS",
+      "name": "USELESS",
+      "upbitPrice": null,
+      "bithumbPrice": 396
+    },
+    {
+      "symbol": "SNX",
+      "name": "SNX",
+      "upbitPrice": null,
+      "bithumbPrice": 394
+    },
+    {
+      "symbol": "ALLO",
+      "name": "ALLO",
+      "upbitPrice": null,
+      "bithumbPrice": 387
+    },
+    {
+      "symbol": "API3",
+      "name": "API3",
+      "upbitPrice": 368,
+      "bithumbPrice": 368
+    },
+    {
+      "symbol": "AVA",
+      "name": "AVA",
+      "upbitPrice": null,
+      "bithumbPrice": 362
+    },
+    {
+      "symbol": "GEOD",
+      "name": "GEOD",
+      "upbitPrice": 348,
+      "bithumbPrice": 349
+    },
+    {
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "upbitPrice": null,
+      "bithumbPrice": 346
+    },
+    {
+      "symbol": "ADA",
+      "name": "ADA",
+      "upbitPrice": 343,
+      "bithumbPrice": 343
+    },
+    {
+      "symbol": "0G",
+      "name": "0G",
+      "upbitPrice": 339,
+      "bithumbPrice": 337
+    },
+    {
+      "symbol": "ARX",
+      "name": "ARX",
+      "upbitPrice": 336,
+      "bithumbPrice": 334
+    },
+    {
+      "symbol": "NXPC",
+      "name": "NXPC",
+      "upbitPrice": 336,
+      "bithumbPrice": 339
+    },
+    {
+      "symbol": "RAD",
+      "name": "RAD",
+      "upbitPrice": null,
+      "bithumbPrice": 334
+    },
+    {
+      "symbol": "WIF",
+      "name": "WIF",
+      "upbitPrice": 327,
+      "bithumbPrice": 324
+    },
+    {
+      "symbol": "EIGEN",
+      "name": "EIGEN",
+      "upbitPrice": null,
+      "bithumbPrice": 323
+    },
+    {
+      "symbol": "ENA",
+      "name": "ENA",
+      "upbitPrice": 320,
+      "bithumbPrice": 321
+    },
+    {
+      "symbol": "FET",
+      "name": "FET",
+      "upbitPrice": null,
+      "bithumbPrice": 320
+    },
+    {
+      "symbol": "BERA",
+      "name": "BERA",
+      "upbitPrice": 315,
+      "bithumbPrice": 313
+    },
+    {
+      "symbol": "PROVE",
+      "name": "PROVE",
+      "upbitPrice": 314,
+      "bithumbPrice": 311
+    },
+    {
+      "symbol": "ARK",
+      "name": "ARK",
+      "upbitPrice": 306,
+      "bithumbPrice": 305
+    },
+    {
+      "symbol": "THETA",
+      "name": "THETA",
+      "upbitPrice": 303,
+      "bithumbPrice": 301
+    },
+    {
+      "symbol": "ARB",
+      "name": "ARB",
+      "upbitPrice": 301,
+      "bithumbPrice": 301
+    },
+    {
+      "symbol": "DOS",
+      "name": "DOS",
+      "upbitPrice": 301,
+      "bithumbPrice": 296
+    },
+    {
+      "symbol": "XLM",
+      "name": "XLM",
+      "upbitPrice": 300,
+      "bithumbPrice": 300
+    },
+    {
+      "symbol": "AGLD",
+      "name": "AGLD",
+      "upbitPrice": 299,
+      "bithumbPrice": 296
+    },
+    {
+      "symbol": "DATA",
+      "name": "DATA",
+      "upbitPrice": 298,
+      "bithumbPrice": 296
+    },
+    {
+      "symbol": "SYRUP",
+      "name": "SYRUP",
+      "upbitPrice": 293,
+      "bithumbPrice": 295
+    },
+    {
+      "symbol": "CBK",
+      "name": "CBK",
+      "upbitPrice": 286,
+      "bithumbPrice": 282
+    },
+    {
+      "symbol": "GRVT",
+      "name": "GRVT",
+      "upbitPrice": 280,
+      "bithumbPrice": 277
+    },
+    {
+      "symbol": "SOON",
+      "name": "SOON",
+      "upbitPrice": 274,
+      "bithumbPrice": 270
+    },
+    {
+      "symbol": "SOMI",
+      "name": "SOMI",
+      "upbitPrice": 269,
+      "bithumbPrice": 266
+    },
+    {
+      "symbol": "ACE",
+      "name": "ACE",
+      "upbitPrice": null,
+      "bithumbPrice": 259
+    },
+    {
+      "symbol": "CYS",
+      "name": "CYS",
+      "upbitPrice": null,
+      "bithumbPrice": 248
+    },
+    {
+      "symbol": "SUPER",
+      "name": "SUPER",
+      "upbitPrice": 238,
+      "bithumbPrice": 236
+    },
+    {
+      "symbol": "MMT",
+      "name": "MMT",
+      "upbitPrice": 230,
+      "bithumbPrice": 229
+    },
+    {
+      "symbol": "RED",
+      "name": "RED",
+      "upbitPrice": 229,
+      "bithumbPrice": 229
+    },
+    {
+      "symbol": "IMX",
+      "name": "IMX",
+      "upbitPrice": 216,
+      "bithumbPrice": 216
+    },
+    {
+      "symbol": "IO",
+      "name": "IO",
+      "upbitPrice": 216,
+      "bithumbPrice": 216
+    },
+    {
+      "symbol": "ALICE",
+      "name": "ALICE",
+      "upbitPrice": null,
+      "bithumbPrice": 208
+    },
+    {
+      "symbol": "APE",
+      "name": "APE",
+      "upbitPrice": null,
+      "bithumbPrice": 206
+    },
+    {
+      "symbol": "CFG",
+      "name": "CFG",
+      "upbitPrice": 205,
+      "bithumbPrice": 207
+    },
+    {
+      "symbol": "COW",
+      "name": "COW",
+      "upbitPrice": 200,
+      "bithumbPrice": 197
+    },
+    {
+      "symbol": "UB",
+      "name": "UB",
+      "upbitPrice": null,
+      "bithumbPrice": 197
+    },
+    {
+      "symbol": "KNC",
+      "name": "KNC",
+      "upbitPrice": 195,
+      "bithumbPrice": 193
+    },
+    {
+      "symbol": "MINA",
+      "name": "MINA",
+      "upbitPrice": 192,
+      "bithumbPrice": 190
+    },
+    {
+      "symbol": "BARD",
+      "name": "BARD",
+      "upbitPrice": 192,
+      "bithumbPrice": 190
+    },
+    {
+      "symbol": "OPEN",
+      "name": "OPEN",
+      "upbitPrice": 185,
+      "bithumbPrice": 185
+    },
+    {
+      "symbol": "OP",
+      "name": "OP",
+      "upbitPrice": 184,
+      "bithumbPrice": 184
+    },
+    {
+      "symbol": "CTK",
+      "name": "CTK",
+      "upbitPrice": null,
+      "bithumbPrice": 184
+    },
+    {
+      "symbol": "FF",
+      "name": "FF",
+      "upbitPrice": 183,
+      "bithumbPrice": 181
+    },
+    {
+      "symbol": "NIL",
+      "name": "NIL",
+      "upbitPrice": null,
+      "bithumbPrice": 181
+    },
+    {
+      "symbol": "ARKM",
+      "name": "ARKM",
+      "upbitPrice": 179,
+      "bithumbPrice": 178
+    },
+    {
+      "symbol": "DYDX",
+      "name": "DYDX",
+      "upbitPrice": null,
+      "bithumbPrice": 179
+    },
+    {
+      "symbol": "KITE",
+      "name": "KITE",
+      "upbitPrice": 175,
+      "bithumbPrice": 175
+    },
+    {
+      "symbol": "BEL",
+      "name": "BEL",
+      "upbitPrice": null,
+      "bithumbPrice": 174
+    },
+    {
+      "symbol": "SD",
+      "name": "SD",
+      "upbitPrice": null,
+      "bithumbPrice": 173
+    },
+    {
+      "symbol": "GLM",
+      "name": "GLM",
+      "upbitPrice": 171,
+      "bithumbPrice": 171
+    },
+    {
+      "symbol": "OPG",
+      "name": "OPG",
+      "upbitPrice": 170,
+      "bithumbPrice": 169
+    },
+    {
+      "symbol": "CC",
+      "name": "CC",
+      "upbitPrice": 167,
+      "bithumbPrice": 164
+    },
+    {
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "upbitPrice": 167,
+      "bithumbPrice": 166
+    },
+    {
+      "symbol": "PUNDIX",
+      "name": "PUNDIX",
+      "upbitPrice": 165,
+      "bithumbPrice": 165
+    },
+    {
+      "symbol": "AIOZ",
+      "name": "AIOZ",
+      "upbitPrice": null,
+      "bithumbPrice": 163
+    },
+    {
+      "symbol": "AVNT",
+      "name": "AVNT",
+      "upbitPrice": 160,
+      "bithumbPrice": 159
+    },
+    {
+      "symbol": "PRL",
+      "name": "PRL",
+      "upbitPrice": 160,
+      "bithumbPrice": 160
+    },
+    {
+      "symbol": "JST",
+      "name": "JST",
+      "upbitPrice": 159,
+      "bithumbPrice": 158
+    },
+    {
+      "symbol": "ALGO",
+      "name": "ALGO",
+      "upbitPrice": 157,
+      "bithumbPrice": 157
+    },
+    {
+      "symbol": "CTC",
+      "name": "CTC",
+      "upbitPrice": 155,
+      "bithumbPrice": 155
+    },
+    {
+      "symbol": "SAFE",
+      "name": "SAFE",
+      "upbitPrice": 153,
+      "bithumbPrice": 153
+    },
+    {
+      "symbol": "VERONA",
+      "name": "VERONA",
+      "upbitPrice": null,
+      "bithumbPrice": 152
+    },
+    {
+      "symbol": "XPL",
+      "name": "XPL",
+      "upbitPrice": 150,
+      "bithumbPrice": 151
+    },
+    {
+      "symbol": "POL",
+      "name": "POL",
+      "upbitPrice": 150,
+      "bithumbPrice": 150
+    },
+    {
+      "symbol": "BSB",
+      "name": "BSB",
+      "upbitPrice": 150,
+      "bithumbPrice": 149
+    },
+    {
+      "symbol": "HUNT",
+      "name": "HUNT",
+      "upbitPrice": 139,
+      "bithumbPrice": 142
+    },
+    {
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "upbitPrice": 138,
+      "bithumbPrice": 138
+    },
+    {
+      "symbol": "A",
+      "name": "A",
+      "upbitPrice": 135,
+      "bithumbPrice": 135
+    },
+    {
+      "symbol": "ICNT",
+      "name": "ICNT",
+      "upbitPrice": null,
+      "bithumbPrice": 135
+    },
+    {
+      "symbol": "DOGE",
+      "name": "DOGE",
+      "upbitPrice": 132,
+      "bithumbPrice": 131
+    },
+    {
+      "symbol": "EDGE",
+      "name": "EDGE",
+      "upbitPrice": 131,
+      "bithumbPrice": 131
+    },
+    {
+      "symbol": "ESP",
+      "name": "ESP",
+      "upbitPrice": 131,
+      "bithumbPrice": 130
+    },
+    {
+      "symbol": "INIT",
+      "name": "INIT",
+      "upbitPrice": null,
+      "bithumbPrice": 130
+    },
+    {
+      "symbol": "ONG",
+      "name": "ONG",
+      "upbitPrice": 129,
+      "bithumbPrice": 127
+    },
+    {
+      "symbol": "HBAR",
+      "name": "HBAR",
+      "upbitPrice": 128,
+      "bithumbPrice": 128
+    },
+    {
+      "symbol": "CELO",
+      "name": "CELO",
+      "upbitPrice": 127,
+      "bithumbPrice": 125
+    },
+    {
+      "symbol": "ZAMA",
+      "name": "ZAMA",
+      "upbitPrice": 123,
+      "bithumbPrice": 123
+    },
+    {
+      "symbol": "TAIKO",
+      "name": "TAIKO",
+      "upbitPrice": 123,
+      "bithumbPrice": 122
+    },
+    {
+      "symbol": "BAT",
+      "name": "BAT",
+      "upbitPrice": 123,
+      "bithumbPrice": 121
+    },
+    {
+      "symbol": "YB",
+      "name": "YB",
+      "upbitPrice": null,
+      "bithumbPrice": 123
+    },
+    {
+      "symbol": "MANA",
+      "name": "MANA",
+      "upbitPrice": 122,
+      "bithumbPrice": 120
+    },
+    {
+      "symbol": "BREV",
+      "name": "BREV",
+      "upbitPrice": 121,
+      "bithumbPrice": 119
+    },
+    {
+      "symbol": "GTC",
+      "name": "GTC",
+      "upbitPrice": null,
+      "bithumbPrice": 120
+    },
+    {
+      "symbol": "ZBT",
+      "name": "ZBT",
+      "upbitPrice": 119,
+      "bithumbPrice": 118
+    },
+    {
+      "symbol": "THE",
+      "name": "THE",
+      "upbitPrice": null,
+      "bithumbPrice": 114
+    },
+    {
+      "symbol": "LISTA",
+      "name": "LISTA",
+      "upbitPrice": null,
+      "bithumbPrice": 112
+    },
+    {
+      "symbol": "C",
+      "name": "C",
+      "upbitPrice": null,
+      "bithumbPrice": 108
+    },
+    {
+      "symbol": "LAYER",
+      "name": "LAYER",
+      "upbitPrice": 106,
+      "bithumbPrice": 104
+    },
+    {
+      "symbol": "SAPIEN",
+      "name": "SAPIEN",
+      "upbitPrice": null,
+      "bithumbPrice": 106
+    },
+    {
+      "symbol": "ME",
+      "name": "ME",
+      "upbitPrice": 103,
+      "bithumbPrice": 103
+    },
+    {
+      "symbol": "HYPER",
+      "name": "HYPER",
+      "upbitPrice": 103,
+      "bithumbPrice": 103
+    },
+    {
+      "symbol": "ELF",
+      "name": "ELF",
+      "upbitPrice": 103,
+      "bithumbPrice": 104
+    },
+    {
+      "symbol": "PHA",
+      "name": "PHA",
+      "upbitPrice": null,
+      "bithumbPrice": 101
+    },
+    {
+      "symbol": "SKY",
+      "name": "SKY",
+      "upbitPrice": 100,
+      "bithumbPrice": 100
+    },
+    {
+      "symbol": "LA",
+      "name": "LA",
+      "upbitPrice": 98.3,
+      "bithumbPrice": 98.5
+    },
+    {
+      "symbol": "FLOCK",
+      "name": "FLOCK",
+      "upbitPrice": 96.2,
+      "bithumbPrice": 95.62
+    },
+    {
+      "symbol": "PYTH",
+      "name": "PYTH",
+      "upbitPrice": 95.9,
+      "bithumbPrice": 94.62
+    },
+    {
+      "symbol": "SLX",
+      "name": "SLX",
+      "upbitPrice": 95.9,
+      "bithumbPrice": 95.15
+    },
+    {
+      "symbol": "FLUX",
+      "name": "FLUX",
+      "upbitPrice": null,
+      "bithumbPrice": 94.97
+    },
+    {
+      "symbol": "MANTA",
+      "name": "MANTA",
+      "upbitPrice": null,
+      "bithumbPrice": 94.62
+    },
+    {
+      "symbol": "UP",
+      "name": "UP",
+      "upbitPrice": null,
+      "bithumbPrice": 94.03
+    },
+    {
+      "symbol": "POWR",
+      "name": "POWR",
+      "upbitPrice": 94,
+      "bithumbPrice": 93.26
+    },
+    {
+      "symbol": "UP2",
+      "name": "UP2",
+      "upbitPrice": 93.9,
+      "bithumbPrice": null
+    },
+    {
+      "symbol": "BLEND",
+      "name": "BLEND",
+      "upbitPrice": 93.5,
+      "bithumbPrice": 92.61
+    },
+    {
+      "symbol": "WET",
+      "name": "WET",
+      "upbitPrice": 93.1,
+      "bithumbPrice": 91.8
+    },
+    {
+      "symbol": "QUID",
+      "name": "QUID",
+      "upbitPrice": 92.8,
+      "bithumbPrice": 92.44
+    },
+    {
+      "symbol": "KAVA",
+      "name": "KAVA",
+      "upbitPrice": 92.5,
+      "bithumbPrice": 91.16
+    },
+    {
+      "symbol": "ERA",
+      "name": "ERA",
+      "upbitPrice": 92.4,
+      "bithumbPrice": 91.15
+    },
+    {
+      "symbol": "BIRB",
+      "name": "BIRB",
+      "upbitPrice": 91.7,
+      "bithumbPrice": 91.5
+    },
+    {
+      "symbol": "SEI",
+      "name": "SEI",
+      "upbitPrice": 90.9,
+      "bithumbPrice": 90.69
+    },
+    {
+      "symbol": "HOLO",
+      "name": "HOLO",
+      "upbitPrice": 90.4,
+      "bithumbPrice": 89.11
+    },
+    {
+      "symbol": "RON",
+      "name": "RON",
+      "upbitPrice": null,
+      "bithumbPrice": 89.89
+    },
+    {
+      "symbol": "BASED",
+      "name": "BASED",
+      "upbitPrice": null,
+      "bithumbPrice": 89.4
+    },
+    {
+      "symbol": "AWE",
+      "name": "AWE",
+      "upbitPrice": 88.1,
+      "bithumbPrice": 86.86
+    },
+    {
+      "symbol": "CRO",
+      "name": "CRO",
+      "upbitPrice": 87.8,
+      "bithumbPrice": 87.46
+    },
+    {
+      "symbol": "STEEM",
+      "name": "STEEM",
+      "upbitPrice": 85.8,
+      "bithumbPrice": 85.79
+    },
+    {
+      "symbol": "PYR",
+      "name": "PYR",
+      "upbitPrice": null,
+      "bithumbPrice": 85.34
+    },
+    {
+      "symbol": "EDEN",
+      "name": "EDEN",
+      "upbitPrice": null,
+      "bithumbPrice": 84.44
+    },
+    {
+      "symbol": "TRUST",
+      "name": "TRUST",
+      "upbitPrice": 81,
+      "bithumbPrice": 79.8
+    },
+    {
+      "symbol": "FOLD",
+      "name": "FOLD",
+      "upbitPrice": 79.7,
+      "bithumbPrice": 79.78
+    },
+    {
+      "symbol": "ONT",
+      "name": "ONT",
+      "upbitPrice": 79.1,
+      "bithumbPrice": 78.57
+    },
+    {
+      "symbol": "AEON",
+      "name": "AEON",
+      "upbitPrice": null,
+      "bithumbPrice": 77.57
+    },
+    {
+      "symbol": "POPCAT",
+      "name": "POPCAT",
+      "upbitPrice": null,
+      "bithumbPrice": 77.36
+    },
+    {
+      "symbol": "WLFI",
+      "name": "WLFI",
+      "upbitPrice": 77,
+      "bithumbPrice": 77.02
+    },
+    {
+      "symbol": "HIVE",
+      "name": "HIVE",
+      "upbitPrice": 76.8,
+      "bithumbPrice": 75.76
+    },
+    {
+      "symbol": "ELSA",
+      "name": "ELSA",
+      "upbitPrice": 76.5,
+      "bithumbPrice": 76
+    },
+    {
+      "symbol": "REQ",
+      "name": "REQ",
+      "upbitPrice": null,
+      "bithumbPrice": 75.89
+    },
+    {
+      "symbol": "2Z",
+      "name": "2Z",
+      "upbitPrice": 74.9,
+      "bithumbPrice": 73.89
+    },
+    {
+      "symbol": "MIRA",
+      "name": "MIRA",
+      "upbitPrice": 74.5,
+      "bithumbPrice": 73.29
+    },
+    {
+      "symbol": "CFX",
+      "name": "CFX",
+      "upbitPrice": 73.7,
+      "bithumbPrice": 72.65
+    },
+    {
+      "symbol": "ACX",
+      "name": "ACX",
+      "upbitPrice": null,
+      "bithumbPrice": 73.23
+    },
+    {
+      "symbol": "KERNEL",
+      "name": "KERNEL",
+      "upbitPrice": 73.1,
+      "bithumbPrice": 72.43
+    },
+    {
+      "symbol": "ZETA",
+      "name": "ZETA",
+      "upbitPrice": 71.8,
+      "bithumbPrice": 71.6
+    },
+    {
+      "symbol": "WAXL",
+      "name": "WAXL",
+      "upbitPrice": null,
+      "bithumbPrice": 71.25
+    },
+    {
+      "symbol": "AXL",
+      "name": "AXL",
+      "upbitPrice": 70.8,
+      "bithumbPrice": null
+    },
+    {
+      "symbol": "CAP",
+      "name": "CAP",
+      "upbitPrice": 70.3,
+      "bithumbPrice": 69.6
+    },
+    {
+      "symbol": "EDU",
+      "name": "EDU",
+      "upbitPrice": null,
+      "bithumbPrice": 68.33
+    },
+    {
+      "symbol": "BTR",
+      "name": "BTR",
+      "upbitPrice": null,
+      "bithumbPrice": 68.23
+    },
+    {
+      "symbol": "NEWT",
+      "name": "NEWT",
+      "upbitPrice": 68.1,
+      "bithumbPrice": 68.2
+    },
+    {
+      "symbol": "ZKP",
+      "name": "ZKP",
+      "upbitPrice": 68,
+      "bithumbPrice": 67.99
+    },
+    {
+      "symbol": "IOTA",
+      "name": "IOTA",
+      "upbitPrice": 67.6,
+      "bithumbPrice": 67.37
+    },
+    {
+      "symbol": "MAGIC",
+      "name": "MAGIC",
+      "upbitPrice": null,
+      "bithumbPrice": 67.45
+    },
+    {
+      "symbol": "MOODENG",
+      "name": "MOODENG",
+      "upbitPrice": 65.6,
+      "bithumbPrice": 64.72
+    },
+    {
+      "symbol": "CHIP",
+      "name": "CHIP",
+      "upbitPrice": 64.5,
+      "bithumbPrice": 63.98
+    },
+    {
+      "symbol": "TREE",
+      "name": "TREE",
+      "upbitPrice": 64.4,
+      "bithumbPrice": 64.3
+    },
+    {
+      "symbol": "SWAP",
+      "name": "SWAP",
+      "upbitPrice": null,
+      "bithumbPrice": 63.34
+    },
+    {
+      "symbol": "MPLX",
+      "name": "MPLX",
+      "upbitPrice": null,
+      "bithumbPrice": 62.66
+    },
+    {
+      "symbol": "RECALL",
+      "name": "RECALL",
+      "upbitPrice": null,
+      "bithumbPrice": 61.44
+    },
+    {
+      "symbol": "MEGA",
+      "name": "MEGA",
+      "upbitPrice": 61.4,
+      "bithumbPrice": 60.67
+    },
+    {
+      "symbol": "SAND",
+      "name": "SAND",
+      "upbitPrice": 61,
+      "bithumbPrice": 60.54
+    },
+    {
+      "symbol": "MLK",
+      "name": "MLK",
+      "upbitPrice": 60.7,
+      "bithumbPrice": 60.16
+    },
+    {
+      "symbol": "POLYX",
+      "name": "POLYX",
+      "upbitPrice": 60.4,
+      "bithumbPrice": 59.97
+    },
+    {
+      "symbol": "PEAQ",
+      "name": "PEAQ",
+      "upbitPrice": null,
+      "bithumbPrice": 59.03
+    },
+    {
+      "symbol": "CARV",
+      "name": "CARV",
+      "upbitPrice": 58.2,
+      "bithumbPrice": 57.67
+    },
+    {
+      "symbol": "WCT",
+      "name": "WCT",
+      "upbitPrice": 57.6,
+      "bithumbPrice": 57.67
+    },
+    {
+      "symbol": "ZKC",
+      "name": "ZKC",
+      "upbitPrice": 57,
+      "bithumbPrice": 57.01
+    },
+    {
+      "symbol": "KMNO",
+      "name": "KMNO",
+      "upbitPrice": 56.9,
+      "bithumbPrice": 56
+    },
+    {
+      "symbol": "ORDER",
+      "name": "ORDER",
+      "upbitPrice": 54.9,
+      "bithumbPrice": 54.22
+    },
+    {
+      "symbol": "STRK",
+      "name": "STRK",
+      "upbitPrice": null,
+      "bithumbPrice": 54.85
+    },
+    {
+      "symbol": "S",
+      "name": "S",
+      "upbitPrice": null,
+      "bithumbPrice": 54.5
+    },
+    {
+      "symbol": "PCI",
+      "name": "PCI",
+      "upbitPrice": null,
+      "bithumbPrice": 53.99
+    },
+    {
+      "symbol": "JOE",
+      "name": "JOE",
+      "upbitPrice": null,
+      "bithumbPrice": 52.72
+    },
+    {
+      "symbol": "ID",
+      "name": "ID",
+      "upbitPrice": 52,
+      "bithumbPrice": 51.94
+    },
+    {
+      "symbol": "OSMO",
+      "name": "OSMO",
+      "upbitPrice": null,
+      "bithumbPrice": 51
+    },
+    {
+      "symbol": "IN",
+      "name": "IN",
+      "upbitPrice": 49.3,
+      "bithumbPrice": 48.49
+    },
+    {
+      "symbol": "WAL",
+      "name": "WAL",
+      "upbitPrice": 49.2,
+      "bithumbPrice": 48.72
+    },
+    {
+      "symbol": "KAIA",
+      "name": "KAIA",
+      "upbitPrice": null,
+      "bithumbPrice": 46.85
+    },
+    {
+      "symbol": "BANK",
+      "name": "BANK",
+      "upbitPrice": null,
+      "bithumbPrice": 46.1
+    },
+    {
+      "symbol": "CPOOL",
+      "name": "CPOOL",
+      "upbitPrice": 44.6,
+      "bithumbPrice": 44.15
+    },
+    {
+      "symbol": "ARDR",
+      "name": "ARDR",
+      "upbitPrice": 42.9,
+      "bithumbPrice": 43.09
+    },
+    {
+      "symbol": "BIO",
+      "name": "BIO",
+      "upbitPrice": 42.1,
+      "bithumbPrice": 41.53
+    },
+    {
+      "symbol": "CVC",
+      "name": "CVC",
+      "upbitPrice": 41.1,
+      "bithumbPrice": 40.86
+    },
+    {
+      "symbol": "BFC",
+      "name": "BFC",
+      "upbitPrice": 40.2,
+      "bithumbPrice": 40.46
+    },
+    {
+      "symbol": "CTSI",
+      "name": "CTSI",
+      "upbitPrice": null,
+      "bithumbPrice": 39.22
+    },
+    {
+      "symbol": "MBX",
+      "name": "MBX",
+      "upbitPrice": null,
+      "bithumbPrice": 38.75
+    },
+    {
+      "symbol": "ENJ",
+      "name": "ENJ",
+      "upbitPrice": null,
+      "bithumbPrice": 38.67
+    },
+    {
+      "symbol": "BORA",
+      "name": "BORA",
+      "upbitPrice": 38.6,
+      "bithumbPrice": 38.17
+    },
+    {
+      "symbol": "MERL",
+      "name": "MERL",
+      "upbitPrice": null,
+      "bithumbPrice": 38.3
+    },
+    {
+      "symbol": "PUFFER",
+      "name": "PUFFER",
+      "upbitPrice": null,
+      "bithumbPrice": 37.82
+    },
+    {
+      "symbol": "STAT",
+      "name": "STAT",
+      "upbitPrice": null,
+      "bithumbPrice": 37.57
+    },
+    {
+      "symbol": "SHELL",
+      "name": "SHELL",
+      "upbitPrice": null,
+      "bithumbPrice": 36.95
+    },
+    {
+      "symbol": "YGG",
+      "name": "YGG",
+      "upbitPrice": 36.9,
+      "bithumbPrice": 36.52
+    },
+    {
+      "symbol": "SONIC",
+      "name": "SONIC",
+      "upbitPrice": 36.4,
+      "bithumbPrice": 36.83
+    },
+    {
+      "symbol": "GRT",
+      "name": "GRT",
+      "upbitPrice": 35.9,
+      "bithumbPrice": 35.5
+    },
+    {
+      "symbol": "HUMA",
+      "name": "HUMA",
+      "upbitPrice": null,
+      "bithumbPrice": 35.71
+    },
+    {
+      "symbol": "STABLE",
+      "name": "STABLE",
+      "upbitPrice": null,
+      "bithumbPrice": 35.5
+    },
+    {
+      "symbol": "MON",
+      "name": "MON",
+      "upbitPrice": 35.3,
+      "bithumbPrice": 35.28
+    },
+    {
+      "symbol": "PARTI",
+      "name": "PARTI",
+      "upbitPrice": null,
+      "bithumbPrice": 34.94
+    },
+    {
+      "symbol": "PONKE",
+      "name": "PONKE",
+      "upbitPrice": null,
+      "bithumbPrice": 34.29
+    },
+    {
+      "symbol": "DAO",
+      "name": "DAO",
+      "upbitPrice": null,
+      "bithumbPrice": 33.29
+    },
+    {
+      "symbol": "SCR",
+      "name": "SCR",
+      "upbitPrice": null,
+      "bithumbPrice": 33.19
+    },
+    {
+      "symbol": "AVL",
+      "name": "AVL",
+      "upbitPrice": null,
+      "bithumbPrice": 32.96
+    },
+    {
+      "symbol": "GWEI",
+      "name": "GWEI",
+      "upbitPrice": null,
+      "bithumbPrice": 31.94
+    },
+    {
+      "symbol": "DBR",
+      "name": "DBR",
+      "upbitPrice": null,
+      "bithumbPrice": 31.33
+    },
+    {
+      "symbol": "CORE",
+      "name": "CORE",
+      "upbitPrice": null,
+      "bithumbPrice": 31.12
+    },
+    {
+      "symbol": "SPK",
+      "name": "SPK",
+      "upbitPrice": 30.5,
+      "bithumbPrice": 30.22
+    },
+    {
+      "symbol": "BICO",
+      "name": "BICO",
+      "upbitPrice": null,
+      "bithumbPrice": 30.21
+    },
+    {
+      "symbol": "DEEP",
+      "name": "DEEP",
+      "upbitPrice": 30.2,
+      "bithumbPrice": 30.14
+    },
+    {
+      "symbol": "SENT",
+      "name": "SENT",
+      "upbitPrice": 30.1,
+      "bithumbPrice": 29.9
+    },
+    {
+      "symbol": "MOC",
+      "name": "MOC",
+      "upbitPrice": 29.7,
+      "bithumbPrice": 29.55
+    },
+    {
+      "symbol": "PROMPT",
+      "name": "PROMPT",
+      "upbitPrice": null,
+      "bithumbPrice": 29.53
+    },
+    {
+      "symbol": "CHR",
+      "name": "CHR",
+      "upbitPrice": null,
+      "bithumbPrice": 28.85
+    },
+    {
+      "symbol": "BOBA",
+      "name": "BOBA",
+      "upbitPrice": null,
+      "bithumbPrice": 28.7
+    },
+    {
+      "symbol": "HAEDAL",
+      "name": "HAEDAL",
+      "upbitPrice": null,
+      "bithumbPrice": 28.6
+    },
+    {
+      "symbol": "AI",
+      "name": "AI",
+      "upbitPrice": 27.9,
+      "bithumbPrice": 27.87
+    },
+    {
+      "symbol": "BLUR",
+      "name": "BLUR",
+      "upbitPrice": 27.6,
+      "bithumbPrice": 27.37
+    },
+    {
+      "symbol": "SKR",
+      "name": "SKR",
+      "upbitPrice": 27.4,
+      "bithumbPrice": 27.08
+    },
+    {
+      "symbol": "BMT",
+      "name": "BMT",
+      "upbitPrice": null,
+      "bithumbPrice": 26.79
+    },
+    {
+      "symbol": "OGN",
+      "name": "OGN",
+      "upbitPrice": null,
+      "bithumbPrice": 26.64
+    },
+    {
+      "symbol": "PLUME",
+      "name": "PLUME",
+      "upbitPrice": 24.7,
+      "bithumbPrice": 24.65
+    },
+    {
+      "symbol": "SUN",
+      "name": "SUN",
+      "upbitPrice": 23.3,
+      "bithumbPrice": 23.29
+    },
+    {
+      "symbol": "IRYS",
+      "name": "IRYS",
+      "upbitPrice": 22.7,
+      "bithumbPrice": 22.55
+    },
+    {
+      "symbol": "CHZ",
+      "name": "CHZ",
+      "upbitPrice": 22.3,
+      "bithumbPrice": 22.02
+    },
+    {
+      "symbol": "COTI",
+      "name": "COTI",
+      "upbitPrice": null,
+      "bithumbPrice": 22.3
+    },
+    {
+      "symbol": "AZTEC",
+      "name": "AZTEC",
+      "upbitPrice": 22.1,
+      "bithumbPrice": 22.18
+    },
+    {
+      "symbol": "C98",
+      "name": "C98",
+      "upbitPrice": null,
+      "bithumbPrice": 21.85
+    },
+    {
+      "symbol": "FORT",
+      "name": "FORT",
+      "upbitPrice": null,
+      "bithumbPrice": 21.7
+    },
+    {
+      "symbol": "ICX",
+      "name": "ICX",
+      "upbitPrice": 19.5,
+      "bithumbPrice": 19.6
+    },
+    {
+      "symbol": "BOUNTY",
+      "name": "BOUNTY",
+      "upbitPrice": 19.4,
+      "bithumbPrice": 19.49
+    },
+    {
+      "symbol": "AUDIO",
+      "name": "AUDIO",
+      "upbitPrice": null,
+      "bithumbPrice": 18.95
+    },
+    {
+      "symbol": "SIGN",
+      "name": "SIGN",
+      "upbitPrice": 18,
+      "bithumbPrice": 17.92
+    },
+    {
+      "symbol": "BILL",
+      "name": "BILL",
+      "upbitPrice": null,
+      "bithumbPrice": 17.89
+    },
+    {
+      "symbol": "CP",
+      "name": "CP",
+      "upbitPrice": 17.8,
+      "bithumbPrice": 17.69
+    },
+    {
+      "symbol": "GHX",
+      "name": "GHX",
+      "upbitPrice": null,
+      "bithumbPrice": 17.6
+    },
+    {
+      "symbol": "BABY",
+      "name": "BABY",
+      "upbitPrice": 17.3,
+      "bithumbPrice": 17.2
+    },
+    {
+      "symbol": "WOO",
+      "name": "WOO",
+      "upbitPrice": null,
+      "bithumbPrice": 17.3
+    },
+    {
+      "symbol": "THQ",
+      "name": "THQ",
+      "upbitPrice": null,
+      "bithumbPrice": 17.15
+    },
+    {
+      "symbol": "ZK",
+      "name": "ZK",
+      "upbitPrice": 16.5,
+      "bithumbPrice": 16.32
+    },
+    {
+      "symbol": "CHECK",
+      "name": "CHECK",
+      "upbitPrice": null,
+      "bithumbPrice": 16.43
+    },
+    {
+      "symbol": "XAN",
+      "name": "XAN",
+      "upbitPrice": null,
+      "bithumbPrice": 16.34
+    },
+    {
+      "symbol": "W",
+      "name": "W",
+      "upbitPrice": 16.3,
+      "bithumbPrice": 16.11
+    },
+    {
+      "symbol": "CTR",
+      "name": "CTR",
+      "upbitPrice": null,
+      "bithumbPrice": 16.08
+    },
+    {
+      "symbol": "COOKIE",
+      "name": "COOKIE",
+      "upbitPrice": null,
+      "bithumbPrice": 16.02
+    },
+    {
+      "symbol": "PUMPBTC",
+      "name": "PUMPBTC",
+      "upbitPrice": null,
+      "bithumbPrice": 16.01
+    },
+    {
+      "symbol": "MAV",
+      "name": "MAV",
+      "upbitPrice": null,
+      "bithumbPrice": 16
+    },
+    {
+      "symbol": "STRAX",
+      "name": "STRAX",
+      "upbitPrice": 15.9,
+      "bithumbPrice": 15.85
+    },
+    {
+      "symbol": "GRND",
+      "name": "GRND",
+      "upbitPrice": null,
+      "bithumbPrice": 15.88
+    },
+    {
+      "symbol": "GPS",
+      "name": "GPS",
+      "upbitPrice": null,
+      "bithumbPrice": 15.31
+    },
+    {
+      "symbol": "BLUE",
+      "name": "BLUE",
+      "upbitPrice": null,
+      "bithumbPrice": 15.04
+    },
+    {
+      "symbol": "ARPA",
+      "name": "ARPA",
+      "upbitPrice": null,
+      "bithumbPrice": 14.97
+    },
+    {
+      "symbol": "TFUEL",
+      "name": "TFUEL",
+      "upbitPrice": 14.7,
+      "bithumbPrice": 14.81
+    },
+    {
+      "symbol": "NCT",
+      "name": "NCT",
+      "upbitPrice": 14.2,
+      "bithumbPrice": 14.18
+    },
+    {
+      "symbol": "BB",
+      "name": "BB",
+      "upbitPrice": null,
+      "bithumbPrice": 14.02
+    },
+    {
+      "symbol": "XTER",
+      "name": "XTER",
+      "upbitPrice": null,
+      "bithumbPrice": 14.01
+    },
+    {
+      "symbol": "MOCA",
+      "name": "MOCA",
+      "upbitPrice": 13.9,
+      "bithumbPrice": 13.92
+    },
+    {
+      "symbol": "PENGU",
+      "name": "PENGU",
+      "upbitPrice": 13.4,
+      "bithumbPrice": 13.38
+    },
+    {
+      "symbol": "ROBO",
+      "name": "ROBO",
+      "upbitPrice": null,
+      "bithumbPrice": 13.31
+    },
+    {
+      "symbol": "SAHARA",
+      "name": "SAHARA",
+      "upbitPrice": 13.2,
+      "bithumbPrice": 13.17
+    },
+    {
+      "symbol": "FCT2",
+      "name": "FCT2",
+      "upbitPrice": 13,
+      "bithumbPrice": 12.89
+    },
+    {
+      "symbol": "MOVE",
+      "name": "MOVE",
+      "upbitPrice": 12.8,
+      "bithumbPrice": 12.67
+    },
+    {
+      "symbol": "VET",
+      "name": "VET",
+      "upbitPrice": 12.8,
+      "bithumbPrice": 12.76
+    },
+    {
+      "symbol": "SXT",
+      "name": "SXT",
+      "upbitPrice": null,
+      "bithumbPrice": 12.65
+    },
+    {
+      "symbol": "HP",
+      "name": "HP",
+      "upbitPrice": 12.6,
+      "bithumbPrice": 12.38
+    },
+    {
+      "symbol": "XAI",
+      "name": "XAI",
+      "upbitPrice": null,
+      "bithumbPrice": 12.31
+    },
+    {
+      "symbol": "POKT",
+      "name": "POKT",
+      "upbitPrice": 12.3,
+      "bithumbPrice": 12.3
+    },
+    {
+      "symbol": "META",
+      "name": "META",
+      "upbitPrice": 12.1,
+      "bithumbPrice": 12.16
+    },
+    {
+      "symbol": "GMT",
+      "name": "GMT",
+      "upbitPrice": 12,
+      "bithumbPrice": 11.82
+    },
+    {
+      "symbol": "SNT",
+      "name": "SNT",
+      "upbitPrice": 12,
+      "bithumbPrice": 11.93
+    },
+    {
+      "symbol": "ZORA",
+      "name": "ZORA",
+      "upbitPrice": 11.9,
+      "bithumbPrice": 11.89
+    },
+    {
+      "symbol": "BIGTIME",
+      "name": "BIGTIME",
+      "upbitPrice": 11.7,
+      "bithumbPrice": 11.6
+    },
+    {
+      "symbol": "ALT",
+      "name": "ALT",
+      "upbitPrice": 10.6,
+      "bithumbPrice": 10.42
+    },
+    {
+      "symbol": "ORBS",
+      "name": "ORBS",
+      "upbitPrice": 10.2,
+      "bithumbPrice": 10.09
+    },
+    {
+      "symbol": "FLR",
+      "name": "FLR",
+      "upbitPrice": null,
+      "bithumbPrice": 9.831
+    },
+    {
+      "symbol": "ASTR",
+      "name": "ASTR",
+      "upbitPrice": 9.75,
+      "bithumbPrice": 9.816
+    },
+    {
+      "symbol": "HPP",
+      "name": "HPP",
+      "upbitPrice": null,
+      "bithumbPrice": 9.313
+    },
+    {
+      "symbol": "HEMI",
+      "name": "HEMI",
+      "upbitPrice": null,
+      "bithumbPrice": 8.748
+    },
+    {
+      "symbol": "HOME",
+      "name": "HOME",
+      "upbitPrice": 8.66,
+      "bithumbPrice": 8.558
+    },
+    {
+      "symbol": "HFT",
+      "name": "HFT",
+      "upbitPrice": null,
+      "bithumbPrice": 8.579
+    },
+    {
+      "symbol": "JPYC",
+      "name": "JPYC",
+      "upbitPrice": 8.55,
+      "bithumbPrice": null
+    },
+    {
+      "symbol": "WAXP",
+      "name": "WAXP",
+      "upbitPrice": 8.34,
+      "bithumbPrice": 8.343
+    },
+    {
+      "symbol": "ACH",
+      "name": "ACH",
+      "upbitPrice": null,
+      "bithumbPrice": 8.112
+    },
+    {
+      "symbol": "ATH",
+      "name": "ATH",
+      "upbitPrice": 8,
+      "bithumbPrice": 7.935
+    },
+    {
+      "symbol": "SIX",
+      "name": "SIX",
+      "upbitPrice": null,
+      "bithumbPrice": 7.911
+    },
+    {
+      "symbol": "AGI",
+      "name": "AGI",
+      "upbitPrice": null,
+      "bithumbPrice": 7.878
+    },
+    {
+      "symbol": "G",
+      "name": "G",
+      "upbitPrice": 7.81,
+      "bithumbPrice": 7.824
+    },
+    {
+      "symbol": "BRETT",
+      "name": "BRETT",
+      "upbitPrice": null,
+      "bithumbPrice": 7.673
+    },
+    {
+      "symbol": "A8",
+      "name": "A8",
+      "upbitPrice": null,
+      "bithumbPrice": 7.658
+    },
+    {
+      "symbol": "T",
+      "name": "T",
+      "upbitPrice": 7.5,
+      "bithumbPrice": 7.389
+    },
+    {
+      "symbol": "XPLA",
+      "name": "XPLA",
+      "upbitPrice": null,
+      "bithumbPrice": 7.332
+    },
+    {
+      "symbol": "MANTRA",
+      "name": "MANTRA",
+      "upbitPrice": 7.05,
+      "bithumbPrice": 9.601
+    },
+    {
+      "symbol": "SPACE",
+      "name": "SPACE",
+      "upbitPrice": null,
+      "bithumbPrice": 6.922
+    },
+    {
+      "symbol": "BOB",
+      "name": "BOB",
+      "upbitPrice": null,
+      "bithumbPrice": 6.811
+    },
+    {
+      "symbol": "ANKR",
+      "name": "ANKR",
+      "upbitPrice": 6.76,
+      "bithumbPrice": 6.687
+    },
+    {
+      "symbol": "KAT",
+      "name": "KAT",
+      "upbitPrice": 6.75,
+      "bithumbPrice": 6.757
+    },
+    {
+      "symbol": "XCN",
+      "name": "XCN",
+      "upbitPrice": 6.72,
+      "bithumbPrice": 6.6
+    },
+    {
+      "symbol": "WNCG",
+      "name": "WNCG",
+      "upbitPrice": null,
+      "bithumbPrice": 6.174
+    },
+    {
+      "symbol": "SKL",
+      "name": "SKL",
+      "upbitPrice": null,
+      "bithumbPrice": 6.111
+    },
+    {
+      "symbol": "HOOK",
+      "name": "HOOK",
+      "upbitPrice": null,
+      "bithumbPrice": 5.915
+    },
+    {
+      "symbol": "DKA",
+      "name": "DKA",
+      "upbitPrice": 5.8,
+      "bithumbPrice": 5.702
+    },
+    {
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "upbitPrice": null,
+      "bithumbPrice": 5.688
+    },
+    {
+      "symbol": "PUMP",
+      "name": "PUMP",
+      "upbitPrice": 5.63,
+      "bithumbPrice": 5.581
+    },
+    {
+      "symbol": "SOLV",
+      "name": "SOLV",
+      "upbitPrice": null,
+      "bithumbPrice": 5.6
+    },
+    {
+      "symbol": "UOS",
+      "name": "UOS",
+      "upbitPrice": null,
+      "bithumbPrice": 5.599
+    },
+    {
+      "symbol": "REZ",
+      "name": "REZ",
+      "upbitPrice": null,
+      "bithumbPrice": 5.579
+    },
+    {
+      "symbol": "MAY",
+      "name": "MAY",
+      "upbitPrice": null,
+      "bithumbPrice": 5.468
+    },
+    {
+      "symbol": "SOPH",
+      "name": "SOPH",
+      "upbitPrice": 5.31,
+      "bithumbPrice": 5.253
+    },
+    {
+      "symbol": "ROA",
+      "name": "ROA",
+      "upbitPrice": null,
+      "bithumbPrice": 5.203
+    },
+    {
+      "symbol": "F",
+      "name": "F",
+      "upbitPrice": 5.12,
+      "bithumbPrice": 5.09
+    },
+    {
+      "symbol": "SUNDOG",
+      "name": "SUNDOG",
+      "upbitPrice": null,
+      "bithumbPrice": 4.989
+    },
+    {
+      "symbol": "CUDIS",
+      "name": "CUDIS",
+      "upbitPrice": null,
+      "bithumbPrice": 4.984
+    },
+    {
+      "symbol": "XYO",
+      "name": "XYO",
+      "upbitPrice": null,
+      "bithumbPrice": 4.879
+    },
+    {
+      "symbol": "IOTX",
+      "name": "IOTX",
+      "upbitPrice": null,
+      "bithumbPrice": 4.795
+    },
+    {
+      "symbol": "ZIL",
+      "name": "ZIL",
+      "upbitPrice": 4.65,
+      "bithumbPrice": 4.501
+    },
+    {
+      "symbol": "ANIME",
+      "name": "ANIME",
+      "upbitPrice": 4.61,
+      "bithumbPrice": 4.571
+    },
+    {
+      "symbol": "MEV",
+      "name": "MEV",
+      "upbitPrice": null,
+      "bithumbPrice": 4.521
+    },
+    {
+      "symbol": "CELR",
+      "name": "CELR",
+      "upbitPrice": null,
+      "bithumbPrice": 4.158
+    },
+    {
+      "symbol": "QKC",
+      "name": "QKC",
+      "upbitPrice": 4.08,
+      "bithumbPrice": 4.103
+    },
+    {
+      "symbol": "D",
+      "name": "D",
+      "upbitPrice": null,
+      "bithumbPrice": 4.045
+    },
+    {
+      "symbol": "TAVA",
+      "name": "TAVA",
+      "upbitPrice": null,
+      "bithumbPrice": 3.99
+    },
+    {
+      "symbol": "LINEA",
+      "name": "LINEA",
+      "upbitPrice": 3.87,
+      "bithumbPrice": 3.838
+    },
+    {
+      "symbol": "CSPR",
+      "name": "CSPR",
+      "upbitPrice": null,
+      "bithumbPrice": 3.697
+    },
+    {
+      "symbol": "LWP",
+      "name": "LWP",
+      "upbitPrice": null,
+      "bithumbPrice": 3.677
+    },
+    {
+      "symbol": "XPR",
+      "name": "XPR",
+      "upbitPrice": null,
+      "bithumbPrice": 3.383
+    },
+    {
+      "symbol": "RVN",
+      "name": "RVN",
+      "upbitPrice": 3.36,
+      "bithumbPrice": 3.344
+    },
+    {
+      "symbol": "AVAIL",
+      "name": "AVAIL",
+      "upbitPrice": null,
+      "bithumbPrice": 3.308
+    },
+    {
+      "symbol": "AZIT",
+      "name": "AZIT",
+      "upbitPrice": null,
+      "bithumbPrice": 3.231
+    },
+    {
+      "symbol": "REI",
+      "name": "REI",
+      "upbitPrice": null,
+      "bithumbPrice": 3.031
+    },
+    {
+      "symbol": "FANC",
+      "name": "FANC",
+      "upbitPrice": null,
+      "bithumbPrice": 2.9
+    },
+    {
+      "symbol": "BEAM",
+      "name": "BEAM",
+      "upbitPrice": 2.89,
+      "bithumbPrice": 2.854
+    },
+    {
+      "symbol": "GALA",
+      "name": "GALA",
+      "upbitPrice": null,
+      "bithumbPrice": 2.834
+    },
+    {
+      "symbol": "TOWNS",
+      "name": "TOWNS",
+      "upbitPrice": null,
+      "bithumbPrice": 2.824
+    },
+    {
+      "symbol": "AL",
+      "name": "AL",
+      "upbitPrice": null,
+      "bithumbPrice": 2.787
+    },
+    {
+      "symbol": "DOOD",
+      "name": "DOOD",
+      "upbitPrice": 2.53,
+      "bithumbPrice": 2.496
+    },
+    {
+      "symbol": "MED",
+      "name": "MED",
+      "upbitPrice": 2.49,
+      "bithumbPrice": 2.477
+    },
+    {
+      "symbol": "EL",
+      "name": "EL",
+      "upbitPrice": null,
+      "bithumbPrice": 2.379
+    },
+    {
+      "symbol": "RSR",
+      "name": "RSR",
+      "upbitPrice": null,
+      "bithumbPrice": 2.309
+    },
+    {
+      "symbol": "MVC",
+      "name": "MVC",
+      "upbitPrice": null,
+      "bithumbPrice": 2.05
+    },
+    {
+      "symbol": "MAPO",
+      "name": "MAPO",
+      "upbitPrice": null,
+      "bithumbPrice": 1.979
+    },
+    {
+      "symbol": "CKB",
+      "name": "CKB",
+      "upbitPrice": 1.91,
+      "bithumbPrice": 1.886
+    },
+    {
+      "symbol": "AHT",
+      "name": "AHT",
+      "upbitPrice": 1.64,
+      "bithumbPrice": 1.619
+    },
+    {
+      "symbol": "MVL",
+      "name": "MVL",
+      "upbitPrice": 1.57,
+      "bithumbPrice": 1.546
+    },
+    {
+      "symbol": "ZRC",
+      "name": "ZRC",
+      "upbitPrice": null,
+      "bithumbPrice": 1.508
+    },
+    {
+      "symbol": "TURBO",
+      "name": "TURBO",
+      "upbitPrice": null,
+      "bithumbPrice": 1.413
+    },
+    {
+      "symbol": "GAME2",
+      "name": "GAME2",
+      "upbitPrice": 1.39,
+      "bithumbPrice": 1.374
+    },
+    {
+      "symbol": "SC",
+      "name": "SC",
+      "upbitPrice": 1.38,
+      "bithumbPrice": 1.366
+    },
+    {
+      "symbol": "IQ",
+      "name": "IQ",
+      "upbitPrice": 1.31,
+      "bithumbPrice": 1.292
+    },
+    {
+      "symbol": "IOST",
+      "name": "IOST",
+      "upbitPrice": 1.26,
+      "bithumbPrice": 1.252
+    },
+    {
+      "symbol": "LM",
+      "name": "LM",
+      "upbitPrice": null,
+      "bithumbPrice": 1.208
+    },
+    {
+      "symbol": "SWELL",
+      "name": "SWELL",
+      "upbitPrice": null,
+      "bithumbPrice": 1.159
+    },
+    {
+      "symbol": "B3",
+      "name": "B3",
+      "upbitPrice": 1.14,
+      "bithumbPrice": 1.114
+    },
+    {
+      "symbol": "MBL",
+      "name": "MBL",
+      "upbitPrice": 1.13,
+      "bithumbPrice": 1.139
+    },
+    {
+      "symbol": "VTHO",
+      "name": "VTHO",
+      "upbitPrice": 1.04,
+      "bithumbPrice": 1.027
+    },
+    {
+      "symbol": "OBSR",
+      "name": "OBSR",
+      "upbitPrice": null,
+      "bithumbPrice": 0.8643
+    },
+    {
+      "symbol": "ADP",
+      "name": "ADP",
+      "upbitPrice": null,
+      "bithumbPrice": 0.7387
+    },
+    {
+      "symbol": "BLAST",
+      "name": "BLAST",
+      "upbitPrice": 0.702,
+      "bithumbPrice": 0.69
+    },
+    {
+      "symbol": "AMP",
+      "name": "AMP",
+      "upbitPrice": null,
+      "bithumbPrice": 0.6848
+    },
+    {
+      "symbol": "TDROP",
+      "name": "TDROP",
+      "upbitPrice": null,
+      "bithumbPrice": 0.6799
+    },
+    {
+      "symbol": "MEW",
+      "name": "MEW",
+      "upbitPrice": 0.678,
+      "bithumbPrice": 0.6774
+    },
+    {
+      "symbol": "CAMP",
+      "name": "CAMP",
+      "upbitPrice": null,
+      "bithumbPrice": 0.6462
+    },
+    {
+      "symbol": "EPT",
+      "name": "EPT",
+      "upbitPrice": null,
+      "bithumbPrice": 0.5742
+    },
+    {
+      "symbol": "EGG",
+      "name": "EGG",
+      "upbitPrice": null,
+      "bithumbPrice": 0.5548
+    },
+    {
+      "symbol": "OBT",
+      "name": "OBT",
+      "upbitPrice": null,
+      "bithumbPrice": 0.5215
+    },
+    {
+      "symbol": "TEMCO",
+      "name": "TEMCO",
+      "upbitPrice": null,
+      "bithumbPrice": 0.4755
+    },
+    {
+      "symbol": "AMO",
+      "name": "AMO",
+      "upbitPrice": null,
+      "bithumbPrice": 0.451
+    },
+    {
+      "symbol": "BIOT",
+      "name": "BIOT",
+      "upbitPrice": null,
+      "bithumbPrice": 0.45
+    },
+    {
+      "symbol": "COS",
+      "name": "COS",
+      "upbitPrice": null,
+      "bithumbPrice": 0.4206
+    },
+    {
+      "symbol": "ACS",
+      "name": "ACS",
+      "upbitPrice": null,
+      "bithumbPrice": 0.2239
+    },
+    {
+      "symbol": "TOSHI",
+      "name": "TOSHI",
+      "upbitPrice": 0.174,
+      "bithumbPrice": 0.176
+    },
+    {
+      "symbol": "CRTS",
+      "name": "CRTS",
+      "upbitPrice": null,
+      "bithumbPrice": 0.087
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "upbitPrice": null,
+      "bithumbPrice": 0.0386
+    },
+    {
+      "symbol": "XEC",
+      "name": "XEC",
+      "upbitPrice": 0.0123,
+      "bithumbPrice": 0.0122
+    },
+    {
+      "symbol": "SHIB",
+      "name": "SHIB",
+      "upbitPrice": 0.00791,
+      "bithumbPrice": 0.008
+    },
+    {
+      "symbol": "PEPE",
+      "name": "PEPE",
+      "upbitPrice": 0.00608,
+      "bithumbPrice": 0.0061
+    },
+    {
+      "symbol": "BONK",
+      "name": "BONK",
+      "upbitPrice": null,
+      "bithumbPrice": 0.005
+    },
+    {
+      "symbol": "NEX",
+      "name": "NEX",
+      "upbitPrice": null,
+      "bithumbPrice": 0.0012
+    },
+    {
+      "symbol": "BTT",
+      "name": "BTT",
+      "upbitPrice": 0.000505,
+      "bithumbPrice": 0.0005
+    },
+    {
+      "symbol": "NFT",
+      "name": "NFT",
+      "upbitPrice": null,
+      "bithumbPrice": 0.0004
+    }
+  ]
 }
